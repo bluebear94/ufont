@@ -41,6 +41,11 @@ behaviours = {
     "offset": (0, 0),
     "dia": "D"
   },
+  "B": {
+    "scale": 0.5,
+    "offset": (250, 200),
+    "dia": "ltd10"
+  },
 }
 
 DUPBEH = {
