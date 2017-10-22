@@ -1,3 +1,4 @@
 #!/bin/sh
 
 sudo cp mInymeko.otf /usr/share/fonts/opentype/mInymeko/
+sudo cp ltfont.otf /usr/share/fonts/opentype/ltfont/
