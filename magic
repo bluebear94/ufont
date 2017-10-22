@@ -1,0 +1,3 @@
+#!/bin/sh
+
+sudo cp mInymeko.otf /usr/share/fonts/opentype/mInymeko/

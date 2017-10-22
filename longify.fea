@@ -1,0 +1,9 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+@sglyphs=[i j u w y W DrAi DrAu DrAy DrDi DrDu DrDy DrEi DrEu DrEy DrGi DrGu DrGy DrHi DrHu DrHy DrIi DrIu DrIy DrNi DrNu DrNy DrOi DrOu DrOy DrSi DrSu DrSy DrTi DrTu DrTy DrUi DrUu DrUy DrYi DrYu DrYy DrZi DrZu DrZy Drbi Drbu Drby Drdi Drdu Drdy Drfi Drfu Drfy Drgi Drgu Drgy Drhi Drhu Drhy Drki Drku Drky Drli Drlu Drly Drmi Drmu Drmy Drni Drnu Drny Drpi Drpu Drpy Drri Drru Drry Drsi Drsu Drsy Drti Drtu Drty Drvi Drvu Drvy Drxi Drxu Drxy Drzi Drzu Drzy];
+
+feature calt {
+	sub @sglyphs [a e i o u y]' by [A E I O U Y];
+	sub @sglyphs [Drha Drhe Drhi Drho Drhu Drhy]' by [A E I O U Y];
+} calt;
