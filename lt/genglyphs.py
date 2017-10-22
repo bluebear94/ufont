@@ -94,44 +94,23 @@ for c in CONSONANTS:
     elif c in behaviours:
       beh = behaviours[c]
       perform(glyph, beh, d)
-    elif c == 'W':
-      font.selection.select(ord(d))
-      font.copy()
-      font.selection.select(glyph)
-      font.paste()
-      font.transform(psMat.compose(
-        psMat.translate(-500, -400),
-        psMat.compose(
-          psMat.rotate(math.pi),
-          psMat.translate(500, 400)
-        )
-      ))
-      font.pasteInto()
-    elif ("lt_" + d + c) in overrides:
-      font.selection.select("lt_" + d + c)
-      font.copy()
-      font.selection.select(glyph)
-      font.paste()
-      insertReverser(glyph)
-    elif d in behaviours:
-      beh = behaviours[d]
-      perform(glyph, beh, c)
-      insertReverser(glyph)
-    elif d == 'W':
-      font.selection.select(ord(c))
-      font.copy()
-      font.selection.select(glyph)
-      font.paste()
-      font.transform(psMat.compose(
-        psMat.translate(-500, -400),
-        psMat.compose(
-          psMat.rotate(math.pi),
-          psMat.translate(500, 400)
-        )
-      ))
-      font.pasteInto()
-      insertReverser(glyph)
     # set dimensions
+    glyph.width = 1000
+    glyph.vwidth = 1000
+
+for c in CONSONANTS:
+  for d in CONSONANTS:
+    # Now generate reverse glyphs
+    glyphname = "lt_" + c + d
+    glyph = font[glyphname]
+    # Respect overrides
+    if not glyph.layers[0].isEmpty() or not glyph.layers[1].isEmpty():
+      continue
+    font.selection.select("lt_" + d + c)
+    font.copy()
+    font.selection.select(glyph)
+    font.paste()
+    insertReverser(glyph)
     glyph.width = 1000
     glyph.vwidth = 1000
 
