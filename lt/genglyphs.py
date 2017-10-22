@@ -46,6 +46,21 @@ behaviours = {
     "offset": (250, 200),
     "dia": "ltd10"
   },
+  "A": {
+    "scale": 56.0 / 80.0,
+    "offset": (1000.0 * 24.0 / 80.0 / 2.0, 0),
+    "dia": "ltd11"
+  },
+  "E": {
+    "scale": 0.4,
+    "offset": (475, 0),
+    "dia": "ltd12"
+  },
+  "R": {
+    "scale": 0.9,
+    "offset": (-40, 0),
+    "dia": "ltd13"
+  },
 }
 
 DUPBEH = {
@@ -65,7 +80,7 @@ def perform(glyph, beh, base):
     psMat.scale(scale),
     psMat.translate(offset[0], offset[1])
   ))
-  glyph.changeWeight(25 * (1 - scale))
+  glyph.changeWeight(50 * (1 - scale))
   font.selection.select(beh["dia"])
   font.copy()
   font.selection.select(glyph)
