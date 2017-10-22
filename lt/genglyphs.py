@@ -61,6 +61,16 @@ behaviours = {
     "offset": (-40, 0),
     "dia": "ltd13"
   },
+  "P": {
+    "scale": 1.0,
+    "offset": (0, 0),
+    "dia": "ltd14"
+  },
+  "Y": {
+    "scale": 0.5,
+    "offset": (250, 160),
+    "dia": "Y"
+  },
 }
 
 DUPBEH = {
@@ -92,6 +102,10 @@ def insertReverser(glyph):
   font.selection.select(glyph)
   font.pasteInto()
 
+if sys.argv[1] == sys.argv[2]:
+  print("Please choose a different filename to save to")
+  exit(-1)
+
 font = fontforge.open(sys.argv[1])
 print(dir(font))
 print(font)
@@ -103,7 +117,7 @@ for c in CONSONANTS:
     glyphname = "lt_" + c + d
     if glyphname in font: overrides.add(glyphname)
 
-covered = set()
+covered = overrides.copy()
 
 for c in CONSONANTS:
   for d in CONSONANTS:
@@ -130,11 +144,23 @@ for c in CONSONANTS:
     # Respect overrides
     if glyphname in covered:
       continue
-    font.selection.select("lt_" + d + c)
-    font.copy()
-    font.selection.select(glyph)
-    font.paste()
-    insertReverser(glyph)
+    if "lt_" + d + c in covered:
+      font.selection.select("lt_" + d + c)
+      font.copy()
+      font.selection.select(glyph)
+      font.paste()
+      insertReverser(glyph)
+    else:
+      font.selection.select(ord(c))
+      font.copy()
+      font.selection.select(glyph)
+      font.paste()
+      font.selection.select(ord(d))
+      font.copy()
+      font.selection.select(glyph)
+      font.pasteInto()
+      if CONSONANTS.index(c) > CONSONANTS.index(d):
+        insertReverser(glyph)
     glyph.width = 1000
     glyph.vwidth = 1000
 
