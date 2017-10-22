@@ -1,4 +1,5 @@
 import sys
+import math
 import fontforge
 import psMat
 
@@ -60,6 +61,12 @@ def perform(glyph, beh, base):
   font.selection.select(glyph)
   font.pasteInto()
 
+def insertReverser(glyph):
+  font.selection.select("ltd05")
+  font.copy()
+  font.selection.select(glyph)
+  font.pasteInto()
+
 font = fontforge.open(sys.argv[1])
 print(dir(font))
 print(font)
@@ -82,22 +89,43 @@ for c in CONSONANTS:
     elif c in behaviours:
       beh = behaviours[c]
       perform(glyph, beh, d)
-    elif d in behaviours:
-      beh = behaviours[d]
-      perform(glyph, beh, c)
-      font.selection.select("ltd05")
+    elif c == 'W':
+      font.selection.select(ord(d))
       font.copy()
       font.selection.select(glyph)
+      font.paste()
+      font.transform(psMat.compose(
+        psMat.translate(-500, -400),
+        psMat.compose(
+          psMat.rotate(math.pi),
+          psMat.translate(500, 400)
+        )
+      ))
       font.pasteInto()
     elif ("lt_" + d + c) in overrides:
       font.selection.select("lt_" + d + c)
       font.copy()
       font.selection.select(glyph)
       font.paste()
-      font.selection.select("ltd05")
+      insertReverser(glyph)
+    elif d in behaviours:
+      beh = behaviours[d]
+      perform(glyph, beh, c)
+      insertReverser(glyph)
+    elif d == 'W':
+      font.selection.select(ord(c))
       font.copy()
       font.selection.select(glyph)
+      font.paste()
+      font.transform(psMat.compose(
+        psMat.translate(-500, -400),
+        psMat.compose(
+          psMat.rotate(math.pi),
+          psMat.translate(500, 400)
+        )
+      ))
       font.pasteInto()
+      insertReverser(glyph)
     # set dimensions
     glyph.width = 1000
     glyph.vwidth = 1000
