@@ -103,6 +103,8 @@ for c in CONSONANTS:
     glyphname = "lt_" + c + d
     if glyphname in font: overrides.add(glyphname)
 
+covered = set()
+
 for c in CONSONANTS:
   for d in CONSONANTS:
     glyphname = "lt_" + c + d
@@ -111,9 +113,11 @@ for c in CONSONANTS:
     glyph = font.createChar(-1, glyphname)
     if c == d:
       perform(glyph, DUPBEH, d)
+      covered.add(glyphname)
     elif c in behaviours:
       beh = behaviours[c]
       perform(glyph, beh, d)
+      covered.add(glyphname)
     # set dimensions
     glyph.width = 1000
     glyph.vwidth = 1000
@@ -124,7 +128,7 @@ for c in CONSONANTS:
     glyphname = "lt_" + c + d
     glyph = font[glyphname]
     # Respect overrides
-    if not glyph.layers[0].isEmpty() or not glyph.layers[1].isEmpty():
+    if glyphname in covered:
       continue
     font.selection.select("lt_" + d + c)
     font.copy()
