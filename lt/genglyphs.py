@@ -164,6 +164,17 @@ for c in CONSONANTS:
     glyph.width = 1000
     glyph.vwidth = 1000
 
+font.addLookup("ltligs", "gsub_ligature", (), [
+    ("liga", [("latn", ["dflt"])])
+  ])
+font.addLookupSubtable("ltligs", "ltligs1")
+
+for c in CONSONANTS:
+  for d in CONSONANTS:
+    glyphname = "lt_" + c + d
+    glyph = font[glyphname]
+    glyph.addPosSub("ltligs1", (c, d))
+
 font.save(sys.argv[2])
 
 for g in font.glyphs():

@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1508636382
-ModificationTime: 1508685055
+ModificationTime: 1508685673
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,6 +35,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 4 0 1 "ltligs" { "ltligs1"  } ['liga' ('latn' <'dflt' > ) ]
 DEI: 91125
 Encoding: ISO8859-1
 UnicodeInterp: none
@@ -1422,6 +1423,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z A
 EndChar
 
 StartChar: lt_ZB
@@ -1502,6 +1504,7 @@ SplineSet
  675.696416098 220.453299352 l 5
  683.778766292 214.56439509 l 5
 EndSplineSet
+Ligature2: "ltligs1" Z B
 EndChar
 
 StartChar: lt_ZC
@@ -1562,6 +1565,7 @@ SplineSet
  819.76539621 53.0613164518 l 1
  497.8671875 580.168945312 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z C
 EndChar
 
 StartChar: lt_ZD
@@ -1620,6 +1624,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z D
 EndChar
 
 StartChar: lt_ZE
@@ -1708,6 +1713,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z E
 EndChar
 
 StartChar: lt_ZF
@@ -1796,6 +1802,7 @@ SplineSet
  469.861328125 745.860351562 l 1
  494.860351562 746 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z F
 EndChar
 
 StartChar: lt_ZG
@@ -1873,6 +1880,7 @@ SplineSet
  727.677749501 374.009993292 625.669239108 370.904834311 505.837256629 345.153679783 c 0
  499.303555433 343.749627662 492.391664354 342.204136791 485.600851881 340.63786838 c 0
 EndSplineSet
+Ligature2: "ltligs1" Z G
 EndChar
 
 StartChar: lt_ZH
@@ -1940,6 +1948,7 @@ SplineSet
  474.962344818 740.310226871 l 1
  486.281793657 718.019644152 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z H
 EndChar
 
 StartChar: lt_ZI
@@ -2014,6 +2023,7 @@ SplineSet
  143.334538972 567.866042368 l 1
  120.60029067 578.265751698 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z I
 EndChar
 
 StartChar: lt_ZK
@@ -2080,6 +2090,7 @@ SplineSet
  873 792 l 1
  808.014648438 536.193359375 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z K
 EndChar
 
 StartChar: lt_ZL
@@ -2140,6 +2151,7 @@ SplineSet
  184.048225739 566.607698877 l 1
  417.905164118 441.680865346 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z L
 EndChar
 
 StartChar: lt_ZM
@@ -2212,6 +2224,7 @@ SplineSet
  189.068359375 791.068359375 l 1
  214.068359375 791 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z M
 EndChar
 
 StartChar: lt_ZN
@@ -2267,6 +2280,7 @@ SplineSet
  193.294921875 759.04296875 l 1
  499.791015625 430.359375 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z N
 EndChar
 
 StartChar: lt_ZO
@@ -2328,6 +2342,7 @@ SplineSet
  211.701827608 -10.5923291621 l 1
  188.554749223 -1.14707838489 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z O
 EndChar
 
 StartChar: lt_ZP
@@ -2403,6 +2418,7 @@ SplineSet
  250.297851562 618.651367188 l 1
  232.974609375 636.676757812 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z P
 EndChar
 
 StartChar: lt_ZQ
@@ -2470,6 +2486,7 @@ SplineSet
  721.69921875 806.6953125 l 1
  746.697265625 806.998046875 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z Q
 EndChar
 
 StartChar: lt_ZR
@@ -2537,6 +2554,7 @@ SplineSet
  403.833084042 807.654781089 l 1
  415.243932565 785.410848524 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z R
 EndChar
 
 StartChar: lt_ZS
@@ -2613,6 +2631,7 @@ SplineSet
  530.264878159 -7.73228520752 l 1
  505.266296476 -7.99858168351 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z S
 EndChar
 
 StartChar: lt_ZT
@@ -2693,6 +2712,7 @@ SplineSet
  507.506835938 621.669921875 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z T
 EndChar
 
 StartChar: lt_ZU
@@ -2761,6 +2781,7 @@ SplineSet
  460 94 l 1
  445.404296875 181.920898438 415.350862089 287.332807922 454.849486088 388.946859449 c 1
 EndSplineSet
+Ligature2: "ltligs1" Z U
 EndChar
 
 StartChar: lt_ZV
@@ -2813,6 +2834,7 @@ SplineSet
  479.872091207 200.417364613 439.760692925 348.917700622 437.017559607 422.063158485 c 0
  434.031180782 501.69992716 507.282037273 626.009398839 583.968817784 733.993798645 c 1
 EndSplineSet
+Ligature2: "ltligs1" Z V
 EndChar
 
 StartChar: lt_ZW
@@ -2865,6 +2887,7 @@ SplineSet
  844.224609375 181.940429688 l 1
  493.823242188 726.518554688 l 1
 EndSplineSet
+Ligature2: "ltligs1" Z W
 EndChar
 
 StartChar: lt_ZX
@@ -2941,6 +2964,7 @@ SplineSet
  447.806640625 46.3349609375 417.671875 3.0107421875 371 0 c 0
  322.978515625 -3.4296875 299.263671875 41.453125 294.555664062 74.4072265625 c 0
 EndSplineSet
+Ligature2: "ltligs1" Z X
 EndChar
 
 StartChar: lt_ZY
@@ -2990,6 +3014,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Z Y
 EndChar
 
 StartChar: ltd09
@@ -3084,6 +3109,7 @@ SplineSet
  821.108398438 128.205078125 l 1
  842.572265625 115.38671875 l 1
 EndSplineSet
+Ligature2: "ltligs1" W A
 EndChar
 
 StartChar: lt_WB
@@ -3139,6 +3165,7 @@ SplineSet
  114.703130955 174.567899825 130.184960293 293.252847308 129.402093044 396.082932116 c 0
  128.620295461 498.675161542 110.19706645 567.106871117 210.211528075 671.588006813 c 0
 EndSplineSet
+Ligature2: "ltligs1" W B
 EndChar
 
 StartChar: lt_WC
@@ -3198,6 +3225,7 @@ SplineSet
  179.0078125 612.876953125 l 1
  500.90625 205.76953125 l 1
 EndSplineSet
+Ligature2: "ltligs1" W C
 EndChar
 
 StartChar: lt_WD
@@ -3253,6 +3281,7 @@ SplineSet
  229.833984375 762.650390625 l 1
  249.2421875 778.408203125 l 1
 EndSplineSet
+Ligature2: "ltligs1" W D
 EndChar
 
 StartChar: lt_WE
@@ -3368,6 +3397,7 @@ SplineSet
  839.123046875 777.876953125 l 1
  838.752929688 752.879882812 l 1
 EndSplineSet
+Ligature2: "ltligs1" W E
 EndChar
 
 StartChar: lt_WF
@@ -3442,6 +3472,7 @@ SplineSet
  469.861328125 745.860351562 l 1
  494.860351562 746 l 1
 EndSplineSet
+Ligature2: "ltligs1" W F
 EndChar
 
 StartChar: lt_WG
@@ -3562,6 +3593,7 @@ SplineSet
  518.270674335 381.695249548 473.18084011 375.906508284 472.866966205 375.863729393 c 0
  459.390790545 374.026699042 446.72087283 373.627996889 434.791092948 374.514272153 c 1
 EndSplineSet
+Ligature2: "ltligs1" W G
 EndChar
 
 StartChar: lt_WH
@@ -3635,6 +3667,7 @@ SplineSet
  134.404296875 439.796875 l 1
  156.694335938 451.116210938 l 1
 EndSplineSet
+Ligature2: "ltligs1" W H
 EndChar
 
 StartChar: lt_WI
@@ -3688,6 +3721,7 @@ SplineSet
  142.707854695 264.5038413 137.972753051 241.490864813 143.289794388 216.750084897 c 1
  150.597490924 182.746566736 287.979066255 62.911706397 348.770998025 46.7729926128 c 1
 EndSplineSet
+Ligature2: "ltligs1" W I
 EndChar
 
 StartChar: lt_WK
@@ -3750,6 +3784,7 @@ SplineSet
  149.569335938 714.577148438 l 1
  274.30859375 540.225585938 l 1
 EndSplineSet
+Ligature2: "ltligs1" W K
 EndChar
 
 StartChar: lt_WL
@@ -3809,6 +3844,7 @@ SplineSet
  857.048828125 231.424804688 l 1
  623.19140625 356.3515625 l 1
 EndSplineSet
+Ligature2: "ltligs1" W L
 EndChar
 
 StartChar: lt_WM
@@ -3868,6 +3904,7 @@ SplineSet
  765.034179688 744.71875 l 1
  238.931976947 741.065722426 l 1
 EndSplineSet
+Ligature2: "ltligs1" W M
 EndChar
 
 StartChar: lt_WN
@@ -3917,6 +3954,7 @@ SplineSet
  712.1171875 42.7548828125 l 1
  405.62109375 371.438476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" W N
 EndChar
 
 StartChar: lt_WO
@@ -3968,6 +4006,7 @@ SplineSet
  784.14453125 830.234375 l 1
  807.291992188 820.7890625 l 1
 EndSplineSet
+Ligature2: "ltligs1" W O
 EndChar
 
 StartChar: lt_WP
@@ -4044,6 +4083,7 @@ SplineSet
  847.056640625 158.126953125 l 1
  864.379882812 140.1015625 l 1
 EndSplineSet
+Ligature2: "ltligs1" W P
 EndChar
 
 StartChar: lt_WQ
@@ -4117,6 +4157,7 @@ SplineSet
  646.69921875 806.6953125 l 1
  671.697265625 806.998046875 l 1
 EndSplineSet
+Ligature2: "ltligs1" W Q
 EndChar
 
 StartChar: lt_WR
@@ -4190,6 +4231,7 @@ SplineSet
  482.166015625 1.1162109375 l 5
  470.755859375 23.3603515625 l 5
 EndSplineSet
+Ligature2: "ltligs1" W R
 EndChar
 
 StartChar: lt_WS
@@ -4281,6 +4323,7 @@ SplineSet
  581.919921875 824.381835938 l 1
  606.918945312 824.6484375 l 1
 EndSplineSet
+Ligature2: "ltligs1" W S
 EndChar
 
 StartChar: lt_WT
@@ -4369,6 +4412,7 @@ SplineSet
  507.506835938 621.669921875 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" W T
 EndChar
 
 StartChar: lt_WU
@@ -4444,6 +4488,7 @@ SplineSet
  600.270507812 586.067382812 l 5
  614.866210938 498.146484375 644.919921875 392.734375 605.420898438 291.120117188 c 5
 EndSplineSet
+Ligature2: "ltligs1" W U
 EndChar
 
 StartChar: lt_WV
@@ -4487,6 +4532,7 @@ SplineSet
  596.1484375 596.34375 636.259765625 447.84375 639.002929688 374.698242188 c 0
  641.989257812 295.061523438 568.73828125 170.751953125 492.051757812 62.767578125 c 1
 EndSplineSet
+Ligature2: "ltligs1" W V
 EndChar
 
 StartChar: lt_WX
@@ -4578,6 +4624,7 @@ SplineSet
  562.948242188 725.016601562 593.083007812 768.340820312 639.754882812 771.3515625 c 0
  687.776367188 774.78125 711.491210938 729.8984375 716.19921875 696.944335938 c 0
 EndSplineSet
+Ligature2: "ltligs1" W X
 EndChar
 
 StartChar: lt_WY
@@ -4629,6 +4676,7 @@ SplineSet
  323.233398438 115.311523438 187.831054688 229.421875 192.0078125 399.61328125 c 0
  196.25390625 572.659179688 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" W Y
 EndChar
 
 StartChar: lt_WZ
@@ -4680,6 +4728,7 @@ SplineSet
  789.599609375 25.8564453125 781.256835938 11.4287109375 772.915039062 -3 c 1
  772.915039062 -3 303.771484375 270.258789062 80.0205078125 399.630859375 c 1
 EndSplineSet
+Ligature2: "ltligs1" W Z
 EndChar
 
 StartChar: lt_DN
@@ -4731,6 +4780,7 @@ SplineSet
  48.14453125 389.359375 l 5
  50.7255859375 414.225585938 l 5
 EndSplineSet
+Ligature2: "ltligs1" D N
 EndChar
 
 StartChar: lt_DK
@@ -4793,6 +4843,7 @@ SplineSet
  16.14453125 389.359375 l 5
  18.7255859375 414.225585938 l 5
 EndSplineSet
+Ligature2: "ltligs1" D K
 EndChar
 
 StartChar: lt_DA
@@ -4856,6 +4907,7 @@ SplineSet
  164.833984375 747.650390625 l 1
  184.2421875 763.408203125 l 1
 EndSplineSet
+Ligature2: "ltligs1" D A
 EndChar
 
 StartChar: lt_DG
@@ -4929,6 +4981,7 @@ SplineSet
  727.677734375 374.009765625 625.668945312 370.905273438 505.836914062 345.153320312 c 0
  499.303710938 343.75 492.391601562 342.204101562 485.600585938 340.637695312 c 0
 EndSplineSet
+Ligature2: "ltligs1" D G
 EndChar
 
 StartChar: lt_DZ
@@ -4981,6 +5034,7 @@ SplineSet
  211.833984375 762.650390625 l 1
  231.2421875 778.408203125 l 1
 EndSplineSet
+Ligature2: "ltligs1" D Z
 EndChar
 
 StartChar: lt_DU
@@ -5045,6 +5099,7 @@ SplineSet
  244.833984375 762.650390625 l 1
  264.2421875 778.408203125 l 1
 EndSplineSet
+Ligature2: "ltligs1" D U
 EndChar
 
 StartChar: ltd10
@@ -5227,6 +5282,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" O A
 EndChar
 
 StartChar: lt_OB
@@ -5292,6 +5348,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" O B
 EndChar
 
 StartChar: lt_OC
@@ -5337,6 +5394,7 @@ SplineSet
  819.76539621 53.0613164518 l 1
  497.8671875 580.168945312 l 1
 EndSplineSet
+Ligature2: "ltligs1" O C
 EndChar
 
 StartChar: lt_OD
@@ -5380,6 +5438,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" O D
 EndChar
 
 StartChar: lt_OE
@@ -5453,6 +5512,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" O E
 EndChar
 
 StartChar: lt_OF
@@ -5526,6 +5586,7 @@ SplineSet
  469.861328125 745.860351562 l 1
  494.860351562 746 l 1
 EndSplineSet
+Ligature2: "ltligs1" O F
 EndChar
 
 StartChar: lt_OG
@@ -5588,6 +5649,7 @@ SplineSet
  727.677749501 374.009993292 625.669239108 370.904834311 505.837256629 345.153679783 c 0
  499.303555433 343.749627662 492.391664354 342.204136791 485.600851881 340.63786838 c 0
 EndSplineSet
+Ligature2: "ltligs1" O G
 EndChar
 
 StartChar: lt_OH
@@ -5640,6 +5702,7 @@ SplineSet
  474.962344818 740.310226871 l 1
  486.281793657 718.019644152 l 1
 EndSplineSet
+Ligature2: "ltligs1" O H
 EndChar
 
 StartChar: lt_OI
@@ -5699,6 +5762,7 @@ SplineSet
  157.334960938 567.866210938 l 1
  134.600585938 578.265625 l 1
 EndSplineSet
+Ligature2: "ltligs1" O I
 EndChar
 
 StartChar: lt_OK
@@ -5750,6 +5814,7 @@ SplineSet
  873 792 l 1
  808.014648438 536.193359375 l 1
 EndSplineSet
+Ligature2: "ltligs1" O K
 EndChar
 
 StartChar: lt_OL
@@ -5795,6 +5860,7 @@ SplineSet
  184.048225739 566.607698877 l 1
  417.905164118 441.680865346 l 1
 EndSplineSet
+Ligature2: "ltligs1" O L
 EndChar
 
 StartChar: lt_OM
@@ -5852,6 +5918,7 @@ SplineSet
  189.068359375 791.068359375 l 1
  214.068359375 791 l 1
 EndSplineSet
+Ligature2: "ltligs1" O M
 EndChar
 
 StartChar: lt_ON
@@ -5892,6 +5959,7 @@ SplineSet
  193.294921875 759.04296875 l 1
  499.791015625 430.359375 l 1
 EndSplineSet
+Ligature2: "ltligs1" O N
 EndChar
 
 StartChar: lt_OP
@@ -5944,6 +6012,7 @@ SplineSet
  250.297851562 618.651367188 l 1
  232.974609375 636.676757812 l 1
 EndSplineSet
+Ligature2: "ltligs1" O P
 EndChar
 
 StartChar: lt_OQ
@@ -5996,6 +6065,7 @@ SplineSet
  721.69921875 806.6953125 l 1
  746.697265625 806.998046875 l 1
 EndSplineSet
+Ligature2: "ltligs1" O Q
 EndChar
 
 StartChar: lt_OR
@@ -6048,6 +6118,7 @@ SplineSet
  403.833084042 807.654781089 l 1
  415.243932565 785.410848524 l 1
 EndSplineSet
+Ligature2: "ltligs1" O R
 EndChar
 
 StartChar: lt_OS
@@ -6109,6 +6180,7 @@ SplineSet
  530.264878159 -7.73228520752 l 1
  505.266296476 -7.99858168351 l 1
 EndSplineSet
+Ligature2: "ltligs1" O S
 EndChar
 
 StartChar: lt_OT
@@ -6174,6 +6246,7 @@ SplineSet
  507.506835938 621.669921875 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" O T
 EndChar
 
 StartChar: lt_OU
@@ -6227,6 +6300,7 @@ SplineSet
  460 94 l 1
  445.404296875 181.920898438 415.350862089 287.332807922 454.849486088 388.946859449 c 1
 EndSplineSet
+Ligature2: "ltligs1" O U
 EndChar
 
 StartChar: lt_OV
@@ -6264,6 +6338,7 @@ SplineSet
  479.872091207 200.417364613 439.760692925 348.917700622 437.017559607 422.063158485 c 0
  434.031180782 501.69992716 507.282037273 626.009398839 583.968817784 733.993798645 c 1
 EndSplineSet
+Ligature2: "ltligs1" O V
 EndChar
 
 StartChar: lt_OW
@@ -6313,6 +6388,7 @@ SplineSet
  844.224609375 181.940429688 l 1
  493.823242188 726.518554688 l 1
 EndSplineSet
+Ligature2: "ltligs1" O W
 EndChar
 
 StartChar: lt_OX
@@ -6374,6 +6450,7 @@ SplineSet
  447.806640625 46.3349609375 417.671875 3.0107421875 371 0 c 0
  322.978515625 -3.4296875 299.263671875 41.453125 294.555664062 74.4072265625 c 0
 EndSplineSet
+Ligature2: "ltligs1" O X
 EndChar
 
 StartChar: lt_OY
@@ -6420,6 +6497,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" O Y
 EndChar
 
 StartChar: lt_OZ
@@ -6461,6 +6539,7 @@ SplineSet
  146.186065397 769.299549488 154.528582011 783.728000352 162.871098624 798.156451216 c 1
  162.871098624 798.156451216 632.014648438 524.897460938 855.765625 395.525390625 c 1
 EndSplineSet
+Ligature2: "ltligs1" O Z
 EndChar
 
 StartChar: ltd14
@@ -6562,6 +6641,7 @@ SplineSet
  692.090820312 757.775390625 l 1
  700.432617188 781.342773438 l 1
 EndSplineSet
+Ligature2: "ltligs1" R X
 EndChar
 
 StartChar: lt_SP
@@ -6621,6 +6701,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S P
 EndChar
 
 StartChar: lt_PS
@@ -6676,6 +6757,7 @@ SplineSet
  132.501953125 271.203125 l 1
  137 321 l 1
 EndSplineSet
+Ligature2: "ltligs1" P S
 EndChar
 
 StartChar: lt_PH
@@ -6722,6 +6804,7 @@ SplineSet
  132.501953125 282.203125 l 5
  137 332 l 5
 EndSplineSet
+Ligature2: "ltligs1" P H
 EndChar
 
 StartChar: lt_PG
@@ -6778,6 +6861,7 @@ SplineSet
  132.501953125 518.203125 l 5
  137 568 l 5
 EndSplineSet
+Ligature2: "ltligs1" P G
 EndChar
 
 StartChar: lt_PQ
@@ -6824,6 +6908,7 @@ SplineSet
  122.501953125 453.203125 l 5
  127 503 l 5
 EndSplineSet
+Ligature2: "ltligs1" P Q
 EndChar
 
 StartChar: lt_PE
@@ -6891,6 +6976,7 @@ SplineSet
  76.501953125 229.203125 l 5
  81 279 l 5
 EndSplineSet
+Ligature2: "ltligs1" P E
 EndChar
 
 StartChar: lt_PU
@@ -6938,6 +7024,7 @@ SplineSet
  155 607 l 5
  159.498046875 656.796875 l 5
 EndSplineSet
+Ligature2: "ltligs1" P U
 EndChar
 
 StartChar: lt_MA
@@ -7008,6 +7095,7 @@ SplineSet
  356.146484375 254.759765625 l 5
  355.767578125 267.25390625 l 5
 EndSplineSet
+Ligature2: "ltligs1" M A
 EndChar
 
 StartChar: lt_MB
@@ -7091,6 +7179,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" M B
 EndChar
 
 StartChar: lt_MC
@@ -7154,6 +7243,7 @@ SplineSet
  819.76539621 53.0613164518 l 1
  497.8671875 580.168945312 l 1
 EndSplineSet
+Ligature2: "ltligs1" M C
 EndChar
 
 StartChar: lt_MD
@@ -7215,6 +7305,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" M D
 EndChar
 
 StartChar: lt_ME
@@ -7306,6 +7397,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" M E
 EndChar
 
 StartChar: lt_MF
@@ -7397,6 +7489,7 @@ SplineSet
  469.861328125 745.860351562 l 1
  494.860351562 746 l 1
 EndSplineSet
+Ligature2: "ltligs1" M F
 EndChar
 
 StartChar: lt_MG
@@ -7477,6 +7570,7 @@ SplineSet
  727.677749501 374.009993292 625.669239108 370.904834311 505.837256629 345.153679783 c 0
  499.303555433 343.749627662 492.391664354 342.204136791 485.600851881 340.63786838 c 0
 EndSplineSet
+Ligature2: "ltligs1" M G
 EndChar
 
 StartChar: lt_MH
@@ -7547,6 +7641,7 @@ SplineSet
  474.962344818 740.310226871 l 1
  486.281793657 718.019644152 l 1
 EndSplineSet
+Ligature2: "ltligs1" M H
 EndChar
 
 StartChar: lt_MI
@@ -7624,6 +7719,7 @@ SplineSet
  143.334538972 567.866042368 l 1
  120.60029067 578.265751698 l 1
 EndSplineSet
+Ligature2: "ltligs1" M I
 EndChar
 
 StartChar: lt_MK
@@ -7693,6 +7789,7 @@ SplineSet
  873 792 l 1
  808.014648438 536.193359375 l 1
 EndSplineSet
+Ligature2: "ltligs1" M K
 EndChar
 
 StartChar: lt_ML
@@ -7756,6 +7853,7 @@ SplineSet
  184.048225739 566.607698877 l 1
  417.905164118 441.680865346 l 1
 EndSplineSet
+Ligature2: "ltligs1" M L
 EndChar
 
 StartChar: lt_MN
@@ -7814,6 +7912,7 @@ SplineSet
  193.294921875 759.04296875 l 1
  499.791015625 430.359375 l 1
 EndSplineSet
+Ligature2: "ltligs1" M N
 EndChar
 
 StartChar: lt_MO
@@ -7878,6 +7977,7 @@ SplineSet
  211.701827608 -10.5923291621 l 1
  188.554749223 -1.14707838489 l 1
 EndSplineSet
+Ligature2: "ltligs1" M O
 EndChar
 
 StartChar: lt_MP
@@ -7948,6 +8048,7 @@ SplineSet
  250.297851562 618.651367188 l 1
  232.974609375 636.676757812 l 1
 EndSplineSet
+Ligature2: "ltligs1" M P
 EndChar
 
 StartChar: lt_MQ
@@ -8018,6 +8119,7 @@ SplineSet
  721.69921875 806.6953125 l 1
  746.697265625 806.998046875 l 1
 EndSplineSet
+Ligature2: "ltligs1" M Q
 EndChar
 
 StartChar: lt_MR
@@ -8088,6 +8190,7 @@ SplineSet
  403.833084042 807.654781089 l 1
  415.243932565 785.410848524 l 1
 EndSplineSet
+Ligature2: "ltligs1" M R
 EndChar
 
 StartChar: lt_MS
@@ -8167,6 +8270,7 @@ SplineSet
  530.264878159 -7.73228520752 l 1
  505.266296476 -7.99858168351 l 1
 EndSplineSet
+Ligature2: "ltligs1" M S
 EndChar
 
 StartChar: lt_MT
@@ -8250,6 +8354,7 @@ SplineSet
  507.506835938 621.669921875 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" M T
 EndChar
 
 StartChar: lt_MU
@@ -8321,6 +8426,7 @@ SplineSet
  460 94 l 1
  445.404296875 181.920898438 415.350862089 287.332807922 454.849486088 388.946859449 c 1
 EndSplineSet
+Ligature2: "ltligs1" M U
 EndChar
 
 StartChar: lt_MV
@@ -8376,6 +8482,7 @@ SplineSet
  479.872091207 200.417364613 439.760692925 348.917700622 437.017559607 422.063158485 c 0
  434.031180782 501.69992716 507.282037273 626.009398839 583.968817784 733.993798645 c 1
 EndSplineSet
+Ligature2: "ltligs1" M V
 EndChar
 
 StartChar: lt_MW
@@ -8443,6 +8550,7 @@ SplineSet
  844.224609375 181.940429688 l 1
  493.823242188 726.518554688 l 1
 EndSplineSet
+Ligature2: "ltligs1" M W
 EndChar
 
 StartChar: lt_MX
@@ -8522,6 +8630,7 @@ SplineSet
  447.806640625 46.3349609375 417.671875 3.0107421875 371 0 c 0
  322.978515625 -3.4296875 299.263671875 41.453125 294.555664062 74.4072265625 c 0
 EndSplineSet
+Ligature2: "ltligs1" M X
 EndChar
 
 StartChar: lt_MY
@@ -8586,6 +8695,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" M Y
 EndChar
 
 StartChar: lt_MZ
@@ -8645,6 +8755,7 @@ SplineSet
  146.186065397 769.299549488 154.528582011 783.728000352 162.871098624 798.156451216 c 1
  162.871098624 798.156451216 632.014648438 524.897460938 855.765625 395.525390625 c 1
 EndSplineSet
+Ligature2: "ltligs1" M Z
 EndChar
 
 StartChar: lt_PP
@@ -8696,6 +8807,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" P P
 EndChar
 
 StartChar: lt_PT
@@ -8755,6 +8867,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P T
 EndChar
 
 StartChar: lt_PK
@@ -8800,6 +8913,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P K
 EndChar
 
 StartChar: lt_PF
@@ -8867,6 +8981,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P F
 EndChar
 
 StartChar: lt_PN
@@ -8901,6 +9016,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P N
 EndChar
 
 StartChar: lt_PM
@@ -8952,6 +9068,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P M
 EndChar
 
 StartChar: lt_PZ
@@ -8987,6 +9104,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P Z
 EndChar
 
 StartChar: lt_PY
@@ -9027,6 +9145,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P Y
 EndChar
 
 StartChar: lt_PC
@@ -9066,6 +9185,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P C
 EndChar
 
 StartChar: lt_PX
@@ -9121,6 +9241,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P X
 EndChar
 
 StartChar: lt_PL
@@ -9160,6 +9281,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P L
 EndChar
 
 StartChar: lt_PW
@@ -9203,6 +9325,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P W
 EndChar
 
 StartChar: lt_PD
@@ -9240,6 +9363,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P D
 EndChar
 
 StartChar: lt_PB
@@ -9299,6 +9423,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P B
 EndChar
 
 StartChar: lt_PA
@@ -9345,6 +9470,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P A
 EndChar
 
 StartChar: lt_PI
@@ -9398,6 +9524,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P I
 EndChar
 
 StartChar: lt_PR
@@ -9444,6 +9571,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P R
 EndChar
 
 StartChar: lt_PO
@@ -9484,6 +9612,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P O
 EndChar
 
 StartChar: lt_PV
@@ -9515,6 +9644,7 @@ SplineSet
  132.501953125 410.203125 l 1
  137 460 l 1
 EndSplineSet
+Ligature2: "ltligs1" P V
 EndChar
 
 StartChar: lt_TP
@@ -9598,6 +9728,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T P
 EndChar
 
 StartChar: lt_TT
@@ -9662,6 +9793,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" T T
 EndChar
 
 StartChar: lt_TK
@@ -9755,6 +9887,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T K
 EndChar
 
 StartChar: lt_TS
@@ -9843,6 +9976,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T S
 EndChar
 
 StartChar: lt_TF
@@ -9974,6 +10108,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T F
 EndChar
 
 StartChar: lt_TN
@@ -10046,6 +10181,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T N
 EndChar
 
 StartChar: lt_TM
@@ -10128,6 +10264,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T M
 EndChar
 
 StartChar: lt_TH
@@ -10218,6 +10355,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T H
 EndChar
 
 StartChar: lt_TZ
@@ -10299,6 +10437,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T Z
 EndChar
 
 StartChar: lt_TY
@@ -10386,6 +10525,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T Y
 EndChar
 
 StartChar: lt_TC
@@ -10459,6 +10599,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T C
 EndChar
 
 StartChar: lt_TX
@@ -10558,6 +10699,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T X
 EndChar
 
 StartChar: lt_TL
@@ -10633,6 +10775,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T L
 EndChar
 
 StartChar: lt_TW
@@ -10716,6 +10859,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T W
 EndChar
 
 StartChar: lt_TG
@@ -10809,6 +10953,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T G
 EndChar
 
 StartChar: lt_TQ
@@ -10885,6 +11030,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T Q
 EndChar
 
 StartChar: lt_TD
@@ -10968,6 +11114,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T D
 EndChar
 
 StartChar: lt_TB
@@ -11073,6 +11220,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T B
 EndChar
 
 StartChar: lt_TA
@@ -11162,6 +11310,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T A
 EndChar
 
 StartChar: lt_TI
@@ -11260,6 +11409,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T I
 EndChar
 
 StartChar: lt_TE
@@ -11368,6 +11518,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T E
 EndChar
 
 StartChar: lt_TU
@@ -11461,6 +11612,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T U
 EndChar
 
 StartChar: lt_TR
@@ -11550,6 +11702,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T R
 EndChar
 
 StartChar: lt_TO
@@ -11629,6 +11782,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T O
 EndChar
 
 StartChar: lt_TV
@@ -11696,6 +11850,7 @@ SplineSet
  506 653 l 1
  485.35546875 653.813476562 l 1
 EndSplineSet
+Ligature2: "ltligs1" T V
 EndChar
 
 StartChar: lt_KP
@@ -11772,6 +11927,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K P
 EndChar
 
 StartChar: lt_KT
@@ -11864,6 +12020,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K T
 EndChar
 
 StartChar: lt_KK
@@ -11914,6 +12071,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" K K
 EndChar
 
 StartChar: lt_KS
@@ -11963,6 +12121,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K S
 EndChar
 
 StartChar: lt_KF
@@ -12076,6 +12235,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K F
 EndChar
 
 StartChar: lt_KN
@@ -12131,6 +12291,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K N
 EndChar
 
 StartChar: lt_KM
@@ -12193,6 +12354,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K M
 EndChar
 
 StartChar: lt_KH
@@ -12257,6 +12419,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K H
 EndChar
 
 StartChar: lt_KZ
@@ -12321,6 +12484,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K Z
 EndChar
 
 StartChar: lt_KY
@@ -12390,6 +12554,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K Y
 EndChar
 
 StartChar: lt_KC
@@ -12441,6 +12606,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K C
 EndChar
 
 StartChar: lt_KX
@@ -12521,6 +12687,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K X
 EndChar
 
 StartChar: lt_KL
@@ -12579,6 +12746,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K L
 EndChar
 
 StartChar: lt_KW
@@ -12645,6 +12813,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K W
 EndChar
 
 StartChar: lt_KG
@@ -12716,6 +12885,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K G
 EndChar
 
 StartChar: lt_KQ
@@ -12794,6 +12964,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K Q
 EndChar
 
 StartChar: lt_KD
@@ -12859,6 +13030,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K D
 EndChar
 
 StartChar: lt_KB
@@ -12941,6 +13113,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K B
 EndChar
 
 StartChar: lt_KA
@@ -13012,6 +13185,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K A
 EndChar
 
 StartChar: lt_KI
@@ -13094,6 +13268,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K I
 EndChar
 
 StartChar: lt_KE
@@ -13178,6 +13353,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K E
 EndChar
 
 StartChar: lt_KU
@@ -13254,6 +13430,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K U
 EndChar
 
 StartChar: lt_KR
@@ -13327,6 +13504,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K R
 EndChar
 
 StartChar: lt_KO
@@ -13383,6 +13561,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K O
 EndChar
 
 StartChar: lt_KV
@@ -13433,6 +13612,7 @@ SplineSet
  873 792 l 5
  808.014648438 536.193359375 l 5
 EndSplineSet
+Ligature2: "ltligs1" K V
 EndChar
 
 StartChar: lt_ST
@@ -13510,6 +13690,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S T
 EndChar
 
 StartChar: lt_SK
@@ -13573,6 +13754,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S K
 EndChar
 
 StartChar: lt_SS
@@ -13633,6 +13815,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" S S
 EndChar
 
 StartChar: lt_SF
@@ -13718,6 +13901,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S F
 EndChar
 
 StartChar: lt_SN
@@ -13770,6 +13954,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S N
 EndChar
 
 StartChar: lt_SM
@@ -13839,6 +14024,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S M
 EndChar
 
 StartChar: lt_SH
@@ -13903,6 +14089,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S H
 EndChar
 
 StartChar: lt_SZ
@@ -13956,6 +14143,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S Z
 EndChar
 
 StartChar: lt_SY
@@ -14014,6 +14202,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S Y
 EndChar
 
 StartChar: lt_SC
@@ -14071,6 +14260,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S C
 EndChar
 
 StartChar: lt_SX
@@ -14144,6 +14334,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S X
 EndChar
 
 StartChar: lt_SL
@@ -14201,6 +14392,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S L
 EndChar
 
 StartChar: lt_SW
@@ -14262,6 +14454,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S W
 EndChar
 
 StartChar: lt_SG
@@ -14336,6 +14529,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S G
 EndChar
 
 StartChar: lt_SQ
@@ -14400,6 +14594,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S Q
 EndChar
 
 StartChar: lt_SD
@@ -14455,6 +14650,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S D
 EndChar
 
 StartChar: lt_SB
@@ -14532,6 +14728,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S B
 EndChar
 
 StartChar: lt_SA
@@ -14596,6 +14793,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S A
 EndChar
 
 StartChar: lt_SI
@@ -14667,6 +14865,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S I
 EndChar
 
 StartChar: lt_SE
@@ -14752,6 +14951,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S E
 EndChar
 
 StartChar: lt_SU
@@ -14817,6 +15017,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S U
 EndChar
 
 StartChar: lt_SR
@@ -14881,6 +15082,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S R
 EndChar
 
 StartChar: lt_SO
@@ -14939,6 +15141,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S O
 EndChar
 
 StartChar: lt_SV
@@ -14988,6 +15191,7 @@ SplineSet
  56.6240234375 324.390625 l 1
  56.0078125 349.383789062 l 1
 EndSplineSet
+Ligature2: "ltligs1" S V
 EndChar
 
 StartChar: lt_FP
@@ -15059,6 +15263,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F P
 EndChar
 
 StartChar: lt_FT
@@ -15143,6 +15348,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F T
 EndChar
 
 StartChar: lt_FK
@@ -15213,6 +15419,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F K
 EndChar
 
 StartChar: lt_FS
@@ -15293,6 +15500,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F S
 EndChar
 
 StartChar: lt_FF
@@ -15365,6 +15573,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" F F
 EndChar
 
 StartChar: lt_FN
@@ -15424,6 +15633,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F N
 EndChar
 
 StartChar: lt_FM
@@ -15500,6 +15710,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F M
 EndChar
 
 StartChar: lt_FH
@@ -15571,6 +15782,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F H
 EndChar
 
 StartChar: lt_FZ
@@ -15631,6 +15843,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F Z
 EndChar
 
 StartChar: lt_FY
@@ -15696,6 +15909,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F Y
 EndChar
 
 StartChar: lt_FC
@@ -15760,6 +15974,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F C
 EndChar
 
 StartChar: lt_FX
@@ -15840,6 +16055,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F X
 EndChar
 
 StartChar: lt_FL
@@ -15904,6 +16120,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F L
 EndChar
 
 StartChar: lt_FW
@@ -15972,6 +16189,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F W
 EndChar
 
 StartChar: lt_FG
@@ -16053,6 +16271,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F G
 EndChar
 
 StartChar: lt_FQ
@@ -16124,6 +16343,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F Q
 EndChar
 
 StartChar: lt_FD
@@ -16186,6 +16406,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F D
 EndChar
 
 StartChar: lt_FB
@@ -16270,6 +16491,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F B
 EndChar
 
 StartChar: lt_FA
@@ -16341,6 +16563,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F A
 EndChar
 
 StartChar: lt_FI
@@ -16419,6 +16642,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F I
 EndChar
 
 StartChar: lt_FE
@@ -16511,6 +16735,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F E
 EndChar
 
 StartChar: lt_FU
@@ -16583,6 +16808,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F U
 EndChar
 
 StartChar: lt_FR
@@ -16654,6 +16880,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F R
 EndChar
 
 StartChar: lt_FO
@@ -16719,6 +16946,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F O
 EndChar
 
 StartChar: lt_FV
@@ -16775,6 +17003,7 @@ SplineSet
  762.413139641 781.406422371 l 5
  787.409781006 780.996641365 l 5
 EndSplineSet
+Ligature2: "ltligs1" F V
 EndChar
 
 StartChar: lt_NP
@@ -16816,6 +17045,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N P
 EndChar
 
 StartChar: lt_NT
@@ -16895,6 +17125,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N T
 EndChar
 
 StartChar: lt_NK
@@ -16957,6 +17188,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N K
 EndChar
 
 StartChar: lt_NS
@@ -17016,6 +17248,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N S
 EndChar
 
 StartChar: lt_NF
@@ -17082,6 +17315,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N F
 EndChar
 
 StartChar: lt_NN
@@ -17121,6 +17355,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" N N
 EndChar
 
 StartChar: lt_NM
@@ -17185,6 +17420,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N M
 EndChar
 
 StartChar: lt_NH
@@ -17245,6 +17481,7 @@ SplineSet
  474.962344818 740.310226871 l 1
  486.281793657 718.019644152 l 1
 EndSplineSet
+Ligature2: "ltligs1" N H
 EndChar
 
 StartChar: lt_NZ
@@ -17306,6 +17543,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N Z
 EndChar
 
 StartChar: lt_NY
@@ -17378,6 +17616,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N Y
 EndChar
 
 StartChar: lt_NC
@@ -17434,6 +17673,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N C
 EndChar
 
 StartChar: lt_NX
@@ -17491,6 +17731,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N X
 EndChar
 
 StartChar: lt_NL
@@ -17544,6 +17785,7 @@ SplineSet
  184.048225739 566.607698877 l 1
  417.905164118 441.680865346 l 1
 EndSplineSet
+Ligature2: "ltligs1" N L
 EndChar
 
 StartChar: lt_NW
@@ -17599,6 +17841,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N W
 EndChar
 
 StartChar: lt_NG
@@ -17669,6 +17912,7 @@ SplineSet
  727.677749501 374.009993292 625.669239108 370.904834311 505.837256629 345.153679783 c 0
  499.303555433 343.749627662 492.391664354 342.204136791 485.600851881 340.63786838 c 0
 EndSplineSet
+Ligature2: "ltligs1" N G
 EndChar
 
 StartChar: lt_NQ
@@ -17729,6 +17973,7 @@ SplineSet
  721.69921875 806.6953125 l 1
  746.697265625 806.998046875 l 1
 EndSplineSet
+Ligature2: "ltligs1" N Q
 EndChar
 
 StartChar: lt_ND
@@ -17787,6 +18032,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N D
 EndChar
 
 StartChar: lt_NB
@@ -17855,6 +18101,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N B
 EndChar
 
 StartChar: lt_NA
@@ -17918,6 +18165,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N A
 EndChar
 
 StartChar: lt_NI
@@ -17985,6 +18233,7 @@ SplineSet
  143.334538972 567.866042368 l 1
  120.60029067 578.265751698 l 1
 EndSplineSet
+Ligature2: "ltligs1" N I
 EndChar
 
 StartChar: lt_NE
@@ -18061,6 +18310,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N E
 EndChar
 
 StartChar: lt_NU
@@ -18122,6 +18372,7 @@ SplineSet
  460 94 l 1
  445.404296875 181.920898438 415.350862089 287.332807922 454.849486088 388.946859449 c 1
 EndSplineSet
+Ligature2: "ltligs1" N U
 EndChar
 
 StartChar: lt_NR
@@ -18186,6 +18437,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N R
 EndChar
 
 StartChar: lt_NO
@@ -18232,6 +18484,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" N O
 EndChar
 
 StartChar: lt_NV
@@ -18277,6 +18530,7 @@ SplineSet
  479.872091207 200.417364613 439.760692925 348.917700622 437.017559607 422.063158485 c 0
  434.031180782 501.69992716 507.282037273 626.009398839 583.968817784 733.993798645 c 1
 EndSplineSet
+Ligature2: "ltligs1" N V
 EndChar
 
 StartChar: lt_MM
@@ -18333,6 +18587,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" M M
 EndChar
 
 StartChar: lt_HP
@@ -18386,6 +18641,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H P
 EndChar
 
 StartChar: lt_HT
@@ -18483,6 +18739,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H T
 EndChar
 
 StartChar: lt_HK
@@ -18554,6 +18811,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H K
 EndChar
 
 StartChar: lt_HS
@@ -18625,6 +18883,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H S
 EndChar
 
 StartChar: lt_HF
@@ -18703,6 +18962,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H F
 EndChar
 
 StartChar: lt_HN
@@ -18770,6 +19030,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H N
 EndChar
 
 StartChar: lt_HM
@@ -18846,6 +19107,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H M
 EndChar
 
 StartChar: lt_HH
@@ -18897,6 +19159,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" H H
 EndChar
 
 StartChar: lt_HZ
@@ -18970,6 +19233,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H Z
 EndChar
 
 StartChar: lt_HY
@@ -19051,6 +19315,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H Y
 EndChar
 
 StartChar: lt_HC
@@ -19125,6 +19390,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H C
 EndChar
 
 StartChar: lt_HX
@@ -19199,6 +19465,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H X
 EndChar
 
 StartChar: lt_HL
@@ -19264,6 +19531,7 @@ SplineSet
  184.048225739 566.607698877 l 1
  417.905164118 441.680865346 l 1
 EndSplineSet
+Ligature2: "ltligs1" H L
 EndChar
 
 StartChar: lt_HW
@@ -19343,6 +19611,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H W
 EndChar
 
 StartChar: lt_HG
@@ -19425,6 +19694,7 @@ SplineSet
  727.677749501 374.009993292 625.669239108 370.904834311 505.837256629 345.153679783 c 0
  499.303555433 343.749627662 492.391664354 342.204136791 485.600851881 340.63786838 c 0
 EndSplineSet
+Ligature2: "ltligs1" H G
 EndChar
 
 StartChar: lt_HQ
@@ -19497,6 +19767,7 @@ SplineSet
  721.69921875 806.6953125 l 1
  746.697265625 806.998046875 l 1
 EndSplineSet
+Ligature2: "ltligs1" H Q
 EndChar
 
 StartChar: lt_HD
@@ -19567,6 +19838,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H D
 EndChar
 
 StartChar: lt_HB
@@ -19644,6 +19916,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H B
 EndChar
 
 StartChar: lt_HA
@@ -19724,6 +19997,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H A
 EndChar
 
 StartChar: lt_HI
@@ -19803,6 +20077,7 @@ SplineSet
  143.334538972 567.866042368 l 1
  120.60029067 578.265751698 l 1
 EndSplineSet
+Ligature2: "ltligs1" H I
 EndChar
 
 StartChar: lt_HE
@@ -19888,6 +20163,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H E
 EndChar
 
 StartChar: lt_HU
@@ -19961,6 +20237,7 @@ SplineSet
  460 94 l 1
  445.404296875 181.920898438 415.350862089 287.332807922 454.849486088 388.946859449 c 1
 EndSplineSet
+Ligature2: "ltligs1" H U
 EndChar
 
 StartChar: lt_HR
@@ -20042,6 +20319,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H R
 EndChar
 
 StartChar: lt_HO
@@ -20100,6 +20378,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" H O
 EndChar
 
 StartChar: lt_HV
@@ -20157,6 +20436,7 @@ SplineSet
  479.872091207 200.417364613 439.760692925 348.917700622 437.017559607 422.063158485 c 0
  434.031180782 501.69992716 507.282037273 626.009398839 583.968817784 733.993798645 c 1
 EndSplineSet
+Ligature2: "ltligs1" H V
 EndChar
 
 StartChar: lt_ZZ
@@ -20197,6 +20477,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" Z Z
 EndChar
 
 StartChar: lt_YP
@@ -20287,6 +20568,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y P
 EndChar
 
 StartChar: lt_YT
@@ -20388,6 +20670,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y T
 EndChar
 
 StartChar: lt_YK
@@ -20475,6 +20758,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y K
 EndChar
 
 StartChar: lt_YS
@@ -20530,6 +20814,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y S
 EndChar
 
 StartChar: lt_YF
@@ -20663,6 +20948,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y F
 EndChar
 
 StartChar: lt_YN
@@ -20728,6 +21014,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y N
 EndChar
 
 StartChar: lt_YM
@@ -20801,6 +21088,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y M
 EndChar
 
 StartChar: lt_YH
@@ -20875,6 +21163,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y H
 EndChar
 
 StartChar: lt_YZ
@@ -20955,6 +21244,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y Z
 EndChar
 
 StartChar: lt_YY
@@ -21000,6 +21290,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y Y
 EndChar
 
 StartChar: lt_YC
@@ -21060,6 +21351,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y C
 EndChar
 
 StartChar: lt_YX
@@ -21149,6 +21441,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y X
 EndChar
 
 StartChar: lt_YL
@@ -21222,6 +21515,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y L
 EndChar
 
 StartChar: lt_YW
@@ -21297,6 +21591,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y W
 EndChar
 
 StartChar: lt_YG
@@ -21380,6 +21675,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y G
 EndChar
 
 StartChar: lt_YQ
@@ -21465,6 +21761,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y Q
 EndChar
 
 StartChar: lt_YD
@@ -21538,6 +21835,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y D
 EndChar
 
 StartChar: lt_YB
@@ -21642,6 +21940,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y B
 EndChar
 
 StartChar: lt_YA
@@ -21722,6 +22021,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y A
 EndChar
 
 StartChar: lt_YI
@@ -21830,6 +22130,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y I
 EndChar
 
 StartChar: lt_YE
@@ -21927,6 +22228,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y E
 EndChar
 
 StartChar: lt_YU
@@ -22014,6 +22316,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y U
 EndChar
 
 StartChar: lt_YR
@@ -22104,6 +22407,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y R
 EndChar
 
 StartChar: lt_YO
@@ -22169,6 +22473,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y O
 EndChar
 
 StartChar: lt_YV
@@ -22228,6 +22533,7 @@ SplineSet
  323.233763437 0.311894499868 187.831503214 168.422050117 192.007524172 338.61331229 c 0
  196.254054202 511.659411011 327.585886364 686.061365183 508.423661528 682.99640996 c 0
 EndSplineSet
+Ligature2: "ltligs1" Y V
 EndChar
 
 StartChar: lt_CP
@@ -22288,6 +22594,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C P
 EndChar
 
 StartChar: lt_CT
@@ -22378,6 +22685,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C T
 EndChar
 
 StartChar: lt_CK
@@ -22448,6 +22756,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C K
 EndChar
 
 StartChar: lt_CS
@@ -22513,6 +22822,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C S
 EndChar
 
 StartChar: lt_CF
@@ -22621,6 +22931,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C F
 EndChar
 
 StartChar: lt_CN
@@ -22670,6 +22981,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C N
 EndChar
 
 StartChar: lt_CM
@@ -22729,6 +23041,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C M
 EndChar
 
 StartChar: lt_CH
@@ -22796,6 +23109,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C H
 EndChar
 
 StartChar: lt_CZ
@@ -22854,6 +23168,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C Z
 EndChar
 
 StartChar: lt_CY
@@ -22918,6 +23233,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C Y
 EndChar
 
 StartChar: lt_CC
@@ -22962,6 +23278,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" C C
 EndChar
 
 StartChar: lt_CX
@@ -23038,6 +23355,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C X
 EndChar
 
 StartChar: lt_CL
@@ -23090,6 +23408,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C L
 EndChar
 
 StartChar: lt_CW
@@ -23150,6 +23469,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C W
 EndChar
 
 StartChar: lt_CG
@@ -23220,6 +23540,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C G
 EndChar
 
 StartChar: lt_CQ
@@ -23273,6 +23594,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C Q
 EndChar
 
 StartChar: lt_CD
@@ -23333,6 +23655,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C D
 EndChar
 
 StartChar: lt_CB
@@ -23415,6 +23738,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C B
 EndChar
 
 StartChar: lt_CA
@@ -23481,6 +23805,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C A
 EndChar
 
 StartChar: lt_CI
@@ -23556,6 +23881,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C I
 EndChar
 
 StartChar: lt_CE
@@ -23641,6 +23967,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C E
 EndChar
 
 StartChar: lt_CU
@@ -23711,6 +24038,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C U
 EndChar
 
 StartChar: lt_CR
@@ -23777,6 +24105,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C R
 EndChar
 
 StartChar: lt_CO
@@ -23833,6 +24162,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C O
 EndChar
 
 StartChar: lt_CV
@@ -23877,6 +24207,7 @@ SplineSet
  584.494140625 684.470703125 554.359375 641.146484375 507.6875 638.135742188 c 4
  459.666015625 634.706054688 435.951171875 679.588867188 431.243164062 712.54296875 c 4
 EndSplineSet
+Ligature2: "ltligs1" C V
 EndChar
 
 StartChar: lt_XP
@@ -23938,6 +24269,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X P
 EndChar
 
 StartChar: lt_XT
@@ -24031,6 +24363,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X T
 EndChar
 
 StartChar: lt_XK
@@ -24102,6 +24435,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X K
 EndChar
 
 StartChar: lt_XS
@@ -24169,6 +24503,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X S
 EndChar
 
 StartChar: lt_XF
@@ -24276,6 +24611,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X F
 EndChar
 
 StartChar: lt_XN
@@ -24326,6 +24662,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X N
 EndChar
 
 StartChar: lt_XM
@@ -24383,6 +24720,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X M
 EndChar
 
 StartChar: lt_XH
@@ -24450,6 +24788,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X H
 EndChar
 
 StartChar: lt_XZ
@@ -24510,6 +24849,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X Z
 EndChar
 
 StartChar: lt_XY
@@ -24554,6 +24894,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X Y
 EndChar
 
 StartChar: lt_XC
@@ -24605,6 +24946,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X C
 EndChar
 
 StartChar: lt_XX
@@ -24665,6 +25007,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" X X
 EndChar
 
 StartChar: lt_XL
@@ -24719,6 +25062,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X L
 EndChar
 
 StartChar: lt_XW
@@ -24780,6 +25124,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X W
 EndChar
 
 StartChar: lt_XG
@@ -24850,6 +25195,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X G
 EndChar
 
 StartChar: lt_XQ
@@ -24904,6 +25250,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X Q
 EndChar
 
 StartChar: lt_XD
@@ -24964,6 +25311,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X D
 EndChar
 
 StartChar: lt_XB
@@ -25047,6 +25395,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X B
 EndChar
 
 StartChar: lt_XA
@@ -25113,6 +25462,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X A
 EndChar
 
 StartChar: lt_XI
@@ -25188,6 +25538,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X I
 EndChar
 
 StartChar: lt_XE
@@ -25275,6 +25626,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X E
 EndChar
 
 StartChar: lt_XU
@@ -25344,6 +25696,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X U
 EndChar
 
 StartChar: lt_XR
@@ -25412,6 +25765,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X R
 EndChar
 
 StartChar: lt_XO
@@ -25468,6 +25822,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X O
 EndChar
 
 StartChar: lt_XV
@@ -25513,6 +25868,7 @@ SplineSet
  848.6484375 770.643554688 l 1
  873.645507812 770.997070312 l 1
 EndSplineSet
+Ligature2: "ltligs1" X V
 EndChar
 
 StartChar: lt_LP
@@ -25559,6 +25915,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L P
 EndChar
 
 StartChar: lt_LT
@@ -25641,6 +25998,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L T
 EndChar
 
 StartChar: lt_LK
@@ -25706,6 +26064,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L K
 EndChar
 
 StartChar: lt_LS
@@ -25770,6 +26129,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L S
 EndChar
 
 StartChar: lt_LF
@@ -25841,6 +26201,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L F
 EndChar
 
 StartChar: lt_LN
@@ -25901,6 +26262,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L N
 EndChar
 
 StartChar: lt_LM
@@ -25970,6 +26332,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L M
 EndChar
 
 StartChar: lt_LH
@@ -26042,6 +26405,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L H
 EndChar
 
 StartChar: lt_LZ
@@ -26108,6 +26472,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L Z
 EndChar
 
 StartChar: lt_LY
@@ -26188,6 +26553,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L Y
 EndChar
 
 StartChar: lt_LC
@@ -26247,6 +26613,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L C
 EndChar
 
 StartChar: lt_LX
@@ -26308,6 +26675,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L X
 EndChar
 
 StartChar: lt_LL
@@ -26352,6 +26720,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" L L
 EndChar
 
 StartChar: lt_LW
@@ -26417,6 +26786,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L W
 EndChar
 
 StartChar: lt_LG
@@ -26492,6 +26862,7 @@ SplineSet
  727.677749501 374.009993292 625.669239108 370.904834311 505.837256629 345.153679783 c 0
  499.303555433 343.749627662 492.391664354 342.204136791 485.600851881 340.63786838 c 0
 EndSplineSet
+Ligature2: "ltligs1" L G
 EndChar
 
 StartChar: lt_LQ
@@ -26557,6 +26928,7 @@ SplineSet
  721.69921875 806.6953125 l 1
  746.697265625 806.998046875 l 1
 EndSplineSet
+Ligature2: "ltligs1" L Q
 EndChar
 
 StartChar: lt_LD
@@ -26620,6 +26992,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L D
 EndChar
 
 StartChar: lt_LB
@@ -26696,6 +27069,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L B
 EndChar
 
 StartChar: lt_LA
@@ -26762,6 +27136,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L A
 EndChar
 
 StartChar: lt_LI
@@ -26834,6 +27209,7 @@ SplineSet
  143.334538972 567.866042368 l 1
  120.60029067 578.265751698 l 1
 EndSplineSet
+Ligature2: "ltligs1" L I
 EndChar
 
 StartChar: lt_LE
@@ -26914,6 +27290,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L E
 EndChar
 
 StartChar: lt_LU
@@ -26980,6 +27357,7 @@ SplineSet
  460 94 l 1
  445.404296875 181.920898438 415.350862089 287.332807922 454.849486088 388.946859449 c 1
 EndSplineSet
+Ligature2: "ltligs1" L U
 EndChar
 
 StartChar: lt_LR
@@ -27048,6 +27426,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L R
 EndChar
 
 StartChar: lt_LO
@@ -27099,6 +27478,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" L O
 EndChar
 
 StartChar: lt_LV
@@ -27149,6 +27529,7 @@ SplineSet
  479.872091207 200.417364613 439.760692925 348.917700622 437.017559607 422.063158485 c 0
  434.031180782 501.69992716 507.282037273 626.009398839 583.968817784 733.993798645 c 1
 EndSplineSet
+Ligature2: "ltligs1" L V
 EndChar
 
 StartChar: lt_WW
@@ -27197,6 +27578,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" W W
 EndChar
 
 StartChar: lt_GP
@@ -27260,6 +27642,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G P
 EndChar
 
 StartChar: lt_GT
@@ -27360,6 +27743,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G T
 EndChar
 
 StartChar: lt_GK
@@ -27438,6 +27822,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G K
 EndChar
 
 StartChar: lt_GS
@@ -27519,6 +27904,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G S
 EndChar
 
 StartChar: lt_GF
@@ -27607,6 +27993,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G F
 EndChar
 
 StartChar: lt_GN
@@ -27684,6 +28071,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G N
 EndChar
 
 StartChar: lt_GM
@@ -27770,6 +28158,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G M
 EndChar
 
 StartChar: lt_GH
@@ -27859,6 +28248,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G H
 EndChar
 
 StartChar: lt_GZ
@@ -27942,6 +28332,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G Z
 EndChar
 
 StartChar: lt_GY
@@ -28032,6 +28423,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G Y
 EndChar
 
 StartChar: lt_GC
@@ -28109,6 +28501,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G C
 EndChar
 
 StartChar: lt_GX
@@ -28186,6 +28579,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G X
 EndChar
 
 StartChar: lt_GL
@@ -28268,6 +28662,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G L
 EndChar
 
 StartChar: lt_GW
@@ -28394,6 +28789,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G W
 EndChar
 
 StartChar: lt_GG
@@ -28455,6 +28851,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" G G
 EndChar
 
 StartChar: lt_GQ
@@ -28537,6 +28934,7 @@ SplineSet
  721.69921875 806.6953125 l 1
  746.697265625 806.998046875 l 1
 EndSplineSet
+Ligature2: "ltligs1" G Q
 EndChar
 
 StartChar: lt_GD
@@ -28617,6 +29015,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G D
 EndChar
 
 StartChar: lt_GB
@@ -28703,6 +29102,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G B
 EndChar
 
 StartChar: lt_GA
@@ -28786,6 +29186,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G A
 EndChar
 
 StartChar: lt_GI
@@ -28875,6 +29276,7 @@ SplineSet
  143.334538972 567.866042368 l 1
  120.60029067 578.265751698 l 1
 EndSplineSet
+Ligature2: "ltligs1" G I
 EndChar
 
 StartChar: lt_GE
@@ -28967,6 +29369,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G E
 EndChar
 
 StartChar: lt_GU
@@ -29050,6 +29453,7 @@ SplineSet
  460 94 l 1
  445.404296875 181.920898438 415.350862089 287.332807922 454.849486088 388.946859449 c 1
 EndSplineSet
+Ligature2: "ltligs1" G U
 EndChar
 
 StartChar: lt_GR
@@ -29134,6 +29538,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G R
 EndChar
 
 StartChar: lt_GO
@@ -29202,6 +29607,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" G O
 EndChar
 
 StartChar: lt_GV
@@ -29269,6 +29675,7 @@ SplineSet
  479.872091207 200.417364613 439.760692925 348.917700622 437.017559607 422.063158485 c 0
  434.031180782 501.69992716 507.282037273 626.009398839 583.968817784 733.993798645 c 1
 EndSplineSet
+Ligature2: "ltligs1" G V
 EndChar
 
 StartChar: lt_QP
@@ -29322,6 +29729,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q P
 EndChar
 
 StartChar: lt_QT
@@ -29405,6 +29813,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q T
 EndChar
 
 StartChar: lt_QK
@@ -29490,6 +29899,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q K
 EndChar
 
 StartChar: lt_QS
@@ -29561,6 +29971,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q S
 EndChar
 
 StartChar: lt_QF
@@ -29639,6 +30050,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q F
 EndChar
 
 StartChar: lt_QN
@@ -29706,6 +30118,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q N
 EndChar
 
 StartChar: lt_QM
@@ -29782,6 +30195,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q M
 EndChar
 
 StartChar: lt_QH
@@ -29861,6 +30275,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q H
 EndChar
 
 StartChar: lt_QZ
@@ -29934,6 +30349,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q Z
 EndChar
 
 StartChar: lt_QY
@@ -30026,6 +30442,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q Y
 EndChar
 
 StartChar: lt_QC
@@ -30086,6 +30503,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q C
 EndChar
 
 StartChar: lt_QX
@@ -30147,6 +30565,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q X
 EndChar
 
 StartChar: lt_QL
@@ -30219,6 +30638,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q L
 EndChar
 
 StartChar: lt_QW
@@ -30298,6 +30718,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q W
 EndChar
 
 StartChar: lt_QG
@@ -30387,6 +30808,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q G
 EndChar
 
 StartChar: lt_QQ
@@ -30438,6 +30860,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" Q Q
 EndChar
 
 StartChar: lt_QD
@@ -30508,6 +30931,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q D
 EndChar
 
 StartChar: lt_QB
@@ -30596,6 +31020,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q B
 EndChar
 
 StartChar: lt_QA
@@ -30663,6 +31088,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q A
 EndChar
 
 StartChar: lt_QI
@@ -30742,6 +31168,7 @@ SplineSet
  143.334538972 567.866042368 l 1
  120.60029067 578.265751698 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q I
 EndChar
 
 StartChar: lt_QE
@@ -30840,6 +31267,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q E
 EndChar
 
 StartChar: lt_QU
@@ -30913,6 +31341,7 @@ SplineSet
  460 94 l 1
  445.404296875 181.920898438 415.350862089 287.332807922 454.849486088 388.946859449 c 1
 EndSplineSet
+Ligature2: "ltligs1" Q U
 EndChar
 
 StartChar: lt_QR
@@ -30981,6 +31410,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q R
 EndChar
 
 StartChar: lt_QO
@@ -31039,6 +31469,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" Q O
 EndChar
 
 StartChar: lt_QV
@@ -31096,6 +31527,7 @@ SplineSet
  479.872091207 200.417364613 439.760692925 348.917700622 437.017559607 422.063158485 c 0
  434.031180782 501.69992716 507.282037273 626.009398839 583.968817784 733.993798645 c 1
 EndSplineSet
+Ligature2: "ltligs1" Q V
 EndChar
 
 StartChar: lt_DP
@@ -31159,6 +31591,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D P
 EndChar
 
 StartChar: lt_DT
@@ -31235,6 +31668,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D T
 EndChar
 
 StartChar: lt_DS
@@ -31307,6 +31741,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D S
 EndChar
 
 StartChar: lt_DF
@@ -31391,6 +31826,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D F
 EndChar
 
 StartChar: lt_DM
@@ -31459,6 +31895,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D M
 EndChar
 
 StartChar: lt_DH
@@ -31522,6 +31959,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D H
 EndChar
 
 StartChar: lt_DY
@@ -31579,6 +32017,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D Y
 EndChar
 
 StartChar: lt_DC
@@ -31635,6 +32074,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D C
 EndChar
 
 StartChar: lt_DX
@@ -31707,6 +32147,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D X
 EndChar
 
 StartChar: lt_DL
@@ -31763,6 +32204,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D L
 EndChar
 
 StartChar: lt_DW
@@ -31823,6 +32265,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D W
 EndChar
 
 StartChar: lt_DQ
@@ -31886,6 +32329,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D Q
 EndChar
 
 StartChar: lt_DD
@@ -31928,6 +32372,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" D D
 EndChar
 
 StartChar: lt_DB
@@ -32004,6 +32449,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D B
 EndChar
 
 StartChar: lt_DI
@@ -32074,6 +32520,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D I
 EndChar
 
 StartChar: lt_DE
@@ -32158,6 +32605,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D E
 EndChar
 
 StartChar: lt_DR
@@ -32221,6 +32669,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D R
 EndChar
 
 StartChar: lt_DO
@@ -32278,6 +32727,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D O
 EndChar
 
 StartChar: lt_DV
@@ -32326,6 +32776,7 @@ SplineSet
  164.833634316 762.650578663 l 1
  184.24210649 778.408472174 l 1
 EndSplineSet
+Ligature2: "ltligs1" D V
 EndChar
 
 StartChar: lt_BP
@@ -32412,6 +32863,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B P
 EndChar
 
 StartChar: lt_BT
@@ -32509,6 +32961,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B T
 EndChar
 
 StartChar: lt_BK
@@ -32592,6 +33045,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B K
 EndChar
 
 StartChar: lt_BS
@@ -32643,6 +33097,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B S
 EndChar
 
 StartChar: lt_BF
@@ -32772,6 +33227,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B F
 EndChar
 
 StartChar: lt_BN
@@ -32833,6 +33289,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B N
 EndChar
 
 StartChar: lt_BM
@@ -32902,6 +33359,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B M
 EndChar
 
 StartChar: lt_BH
@@ -32972,6 +33430,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B H
 EndChar
 
 StartChar: lt_BZ
@@ -33048,6 +33507,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B Z
 EndChar
 
 StartChar: lt_BY
@@ -33122,6 +33582,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B Y
 EndChar
 
 StartChar: lt_BC
@@ -33178,6 +33639,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B C
 EndChar
 
 StartChar: lt_BX
@@ -33263,6 +33725,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B X
 EndChar
 
 StartChar: lt_BL
@@ -33332,6 +33795,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B L
 EndChar
 
 StartChar: lt_BW
@@ -33403,6 +33867,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B W
 EndChar
 
 StartChar: lt_BG
@@ -33482,6 +33947,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B G
 EndChar
 
 StartChar: lt_BQ
@@ -33563,6 +34029,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B Q
 EndChar
 
 StartChar: lt_BD
@@ -33632,6 +34099,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B D
 EndChar
 
 StartChar: lt_BB
@@ -33696,6 +34164,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" B B
 EndChar
 
 StartChar: lt_BA
@@ -33772,6 +34241,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B A
 EndChar
 
 StartChar: lt_BI
@@ -33876,6 +34346,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B I
 EndChar
 
 StartChar: lt_BE
@@ -33969,6 +34440,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B E
 EndChar
 
 StartChar: lt_BU
@@ -34052,6 +34524,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B U
 EndChar
 
 StartChar: lt_BR
@@ -34138,6 +34611,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B R
 EndChar
 
 StartChar: lt_BO
@@ -34199,6 +34673,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B O
 EndChar
 
 StartChar: lt_BV
@@ -34254,6 +34729,7 @@ SplineSet
  796.817356622 676.855760596 l 1
  776.336558609 662.519201987 l 1
 EndSplineSet
+Ligature2: "ltligs1" B V
 EndChar
 
 StartChar: lt_AP
@@ -34321,6 +34797,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A P
 EndChar
 
 StartChar: lt_AT
@@ -34418,6 +34895,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A T
 EndChar
 
 StartChar: lt_AK
@@ -34495,6 +34973,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A K
 EndChar
 
 StartChar: lt_AS
@@ -34572,6 +35051,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A S
 EndChar
 
 StartChar: lt_AF
@@ -34685,6 +35165,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A F
 EndChar
 
 StartChar: lt_AN
@@ -34741,6 +35222,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A N
 EndChar
 
 StartChar: lt_AM
@@ -34804,6 +35286,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A M
 EndChar
 
 StartChar: lt_AH
@@ -34877,6 +35360,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A H
 EndChar
 
 StartChar: lt_AZ
@@ -34942,6 +35426,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A Z
 EndChar
 
 StartChar: lt_AY
@@ -35012,6 +35497,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A Y
 EndChar
 
 StartChar: lt_AC
@@ -35069,6 +35555,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A C
 EndChar
 
 StartChar: lt_AX
@@ -35152,6 +35639,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A X
 EndChar
 
 StartChar: lt_AL
@@ -35211,6 +35699,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A L
 EndChar
 
 StartChar: lt_AW
@@ -35278,6 +35767,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A W
 EndChar
 
 StartChar: lt_AG
@@ -35354,6 +35844,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A G
 EndChar
 
 StartChar: lt_AQ
@@ -35414,6 +35905,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A Q
 EndChar
 
 StartChar: lt_AD
@@ -35479,6 +35971,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A D
 EndChar
 
 StartChar: lt_AB
@@ -35566,6 +36059,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A B
 EndChar
 
 StartChar: lt_AA
@@ -35617,6 +36111,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" A A
 EndChar
 
 StartChar: lt_AI
@@ -35698,6 +36193,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A I
 EndChar
 
 StartChar: lt_AE
@@ -35791,6 +36287,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A E
 EndChar
 
 StartChar: lt_AU
@@ -35866,6 +36363,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A U
 EndChar
 
 StartChar: lt_AR
@@ -35939,6 +36437,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A R
 EndChar
 
 StartChar: lt_AO
@@ -36001,6 +36500,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A O
 EndChar
 
 StartChar: lt_AV
@@ -36052,6 +36552,7 @@ SplineSet
  189.645053751 566.717890298 l 1
  168.181472024 579.536418273 l 1
 EndSplineSet
+Ligature2: "ltligs1" A V
 EndChar
 
 StartChar: lt_IP
@@ -36112,6 +36613,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I P
 EndChar
 
 StartChar: lt_IT
@@ -36217,6 +36719,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I T
 EndChar
 
 StartChar: lt_IK
@@ -36306,6 +36809,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I K
 EndChar
 
 StartChar: lt_IS
@@ -36384,6 +36888,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I S
 EndChar
 
 StartChar: lt_IF
@@ -36469,6 +36974,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I F
 EndChar
 
 StartChar: lt_IN
@@ -36543,6 +37049,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I N
 EndChar
 
 StartChar: lt_IM
@@ -36626,6 +37133,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I M
 EndChar
 
 StartChar: lt_IH
@@ -36712,6 +37220,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I H
 EndChar
 
 StartChar: lt_IZ
@@ -36792,6 +37301,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I Z
 EndChar
 
 StartChar: lt_IY
@@ -36907,6 +37417,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I Y
 EndChar
 
 StartChar: lt_IC
@@ -36989,6 +37500,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I C
 EndChar
 
 StartChar: lt_IX
@@ -37071,6 +37583,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I X
 EndChar
 
 StartChar: lt_IL
@@ -37150,6 +37663,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I L
 EndChar
 
 StartChar: lt_IW
@@ -37209,6 +37723,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I W
 EndChar
 
 StartChar: lt_IG
@@ -37305,6 +37820,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I G
 EndChar
 
 StartChar: lt_IQ
@@ -37391,6 +37907,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I Q
 EndChar
 
 StartChar: lt_ID
@@ -37468,6 +37985,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I D
 EndChar
 
 StartChar: lt_IB
@@ -37579,6 +38097,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I B
 EndChar
 
 StartChar: lt_IA
@@ -37667,6 +38186,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I A
 EndChar
 
 StartChar: lt_II
@@ -37725,6 +38245,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" I I
 EndChar
 
 StartChar: lt_IE
@@ -37828,6 +38349,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I E
 EndChar
 
 StartChar: lt_IU
@@ -37908,6 +38430,7 @@ SplineSet
  460 94 l 1
  445.404296875 181.920898438 415.350862089 287.332807922 454.849486088 388.946859449 c 1
 EndSplineSet
+Ligature2: "ltligs1" I U
 EndChar
 
 StartChar: lt_IR
@@ -37997,6 +38520,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I R
 EndChar
 
 StartChar: lt_IO
@@ -38062,6 +38586,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" I O
 EndChar
 
 StartChar: lt_IV
@@ -38126,6 +38651,7 @@ SplineSet
  479.872091207 200.417364613 439.760692925 348.917700622 437.017559607 422.063158485 c 0
  434.031180782 501.69992716 507.282037273 626.009398839 583.968817784 733.993798645 c 1
 EndSplineSet
+Ligature2: "ltligs1" I V
 EndChar
 
 StartChar: lt_EP
@@ -38216,6 +38742,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E P
 EndChar
 
 StartChar: lt_ET
@@ -38322,6 +38849,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E T
 EndChar
 
 StartChar: lt_EK
@@ -38410,6 +38938,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E K
 EndChar
 
 StartChar: lt_ES
@@ -38475,6 +39004,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E S
 EndChar
 
 StartChar: lt_EF
@@ -38602,6 +39132,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E F
 EndChar
 
 StartChar: lt_EN
@@ -38671,6 +39202,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E N
 EndChar
 
 StartChar: lt_EM
@@ -38747,6 +39279,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E M
 EndChar
 
 StartChar: lt_EH
@@ -38825,6 +39358,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E H
 EndChar
 
 StartChar: lt_EZ
@@ -38903,6 +39437,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E Z
 EndChar
 
 StartChar: lt_EY
@@ -38986,6 +39521,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E Y
 EndChar
 
 StartChar: lt_EC
@@ -39051,6 +39587,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E C
 EndChar
 
 StartChar: lt_EX
@@ -39144,6 +39681,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E X
 EndChar
 
 StartChar: lt_EL
@@ -39217,6 +39755,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E L
 EndChar
 
 StartChar: lt_EW
@@ -39297,6 +39836,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E W
 EndChar
 
 StartChar: lt_EG
@@ -39382,6 +39922,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E G
 EndChar
 
 StartChar: lt_EQ
@@ -39473,6 +40014,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E Q
 EndChar
 
 StartChar: lt_ED
@@ -39552,6 +40094,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E D
 EndChar
 
 StartChar: lt_EB
@@ -39649,6 +40192,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E B
 EndChar
 
 StartChar: lt_EA
@@ -39734,6 +40278,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E A
 EndChar
 
 StartChar: lt_EI
@@ -39830,6 +40375,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E I
 EndChar
 
 StartChar: lt_EE
@@ -39902,6 +40448,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" E E
 EndChar
 
 StartChar: lt_EU
@@ -39992,6 +40539,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E U
 EndChar
 
 StartChar: lt_ER
@@ -40078,6 +40626,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E R
 EndChar
 
 StartChar: lt_EO
@@ -40148,6 +40697,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E O
 EndChar
 
 StartChar: lt_EV
@@ -40212,6 +40762,7 @@ SplineSet
  171.6324133 -14.6269272344 l 1
  172.002743033 10.3703297328 l 1
 EndSplineSet
+Ligature2: "ltligs1" E V
 EndChar
 
 StartChar: lt_UP
@@ -40266,6 +40817,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U P
 EndChar
 
 StartChar: lt_UT
@@ -40366,6 +40918,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U T
 EndChar
 
 StartChar: lt_UK
@@ -40449,6 +41002,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U K
 EndChar
 
 StartChar: lt_US
@@ -40521,6 +41075,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U S
 EndChar
 
 StartChar: lt_UF
@@ -40600,6 +41155,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U F
 EndChar
 
 StartChar: lt_UN
@@ -40668,6 +41224,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U N
 EndChar
 
 StartChar: lt_UM
@@ -40745,6 +41302,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U M
 EndChar
 
 StartChar: lt_UH
@@ -40825,6 +41383,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U H
 EndChar
 
 StartChar: lt_UZ
@@ -40899,6 +41458,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U Z
 EndChar
 
 StartChar: lt_UY
@@ -40993,6 +41553,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U Y
 EndChar
 
 StartChar: lt_UC
@@ -41070,6 +41631,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U C
 EndChar
 
 StartChar: lt_UX
@@ -41146,6 +41708,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U X
 EndChar
 
 StartChar: lt_UL
@@ -41219,6 +41782,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U L
 EndChar
 
 StartChar: lt_UW
@@ -41300,6 +41864,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U W
 EndChar
 
 StartChar: lt_UG
@@ -41390,6 +41955,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U G
 EndChar
 
 StartChar: lt_UQ
@@ -41470,6 +42036,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U Q
 EndChar
 
 StartChar: lt_UD
@@ -41541,6 +42108,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U D
 EndChar
 
 StartChar: lt_UB
@@ -41631,6 +42199,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U B
 EndChar
 
 StartChar: lt_UA
@@ -41713,6 +42282,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U A
 EndChar
 
 StartChar: lt_UI
@@ -41800,6 +42370,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U I
 EndChar
 
 StartChar: lt_UE
@@ -41897,6 +42468,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U E
 EndChar
 
 StartChar: lt_UU
@@ -41949,6 +42521,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" U U
 EndChar
 
 StartChar: lt_UR
@@ -42032,6 +42605,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U R
 EndChar
 
 StartChar: lt_UO
@@ -42091,6 +42665,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" U O
 EndChar
 
 StartChar: lt_UV
@@ -42149,6 +42724,7 @@ SplineSet
  479.872091207 200.417364613 439.760692925 348.917700622 437.017559607 422.063158485 c 0
  434.031180782 501.69992716 507.282037273 626.009398839 583.968817784 733.993798645 c 1
 EndSplineSet
+Ligature2: "ltligs1" U V
 EndChar
 
 StartChar: lt_RP
@@ -42217,6 +42793,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R P
 EndChar
 
 StartChar: lt_RT
@@ -42317,6 +42894,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R T
 EndChar
 
 StartChar: lt_RK
@@ -42395,6 +42973,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R K
 EndChar
 
 StartChar: lt_RS
@@ -42469,6 +43048,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R S
 EndChar
 
 StartChar: lt_RF
@@ -42583,6 +43163,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R F
 EndChar
 
 StartChar: lt_RN
@@ -42640,6 +43221,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R N
 EndChar
 
 StartChar: lt_RM
@@ -42704,6 +43286,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R M
 EndChar
 
 StartChar: lt_RH
@@ -42778,6 +43361,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R H
 EndChar
 
 StartChar: lt_RZ
@@ -42845,6 +43429,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R Z
 EndChar
 
 StartChar: lt_RY
@@ -42896,6 +43481,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R Y
 EndChar
 
 StartChar: lt_RC
@@ -42954,6 +43540,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R C
 EndChar
 
 StartChar: lt_RL
@@ -43015,6 +43602,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R L
 EndChar
 
 StartChar: lt_RW
@@ -43083,6 +43671,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R W
 EndChar
 
 StartChar: lt_RG
@@ -43160,6 +43749,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R G
 EndChar
 
 StartChar: lt_RQ
@@ -43221,6 +43811,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R Q
 EndChar
 
 StartChar: lt_RD
@@ -43288,6 +43879,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R D
 EndChar
 
 StartChar: lt_RB
@@ -43378,6 +43970,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R B
 EndChar
 
 StartChar: lt_RA
@@ -43451,6 +44044,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R A
 EndChar
 
 StartChar: lt_RI
@@ -43533,6 +44127,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R I
 EndChar
 
 StartChar: lt_RE
@@ -43627,6 +44222,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R E
 EndChar
 
 StartChar: lt_RU
@@ -43703,6 +44299,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R U
 EndChar
 
 StartChar: lt_RR
@@ -43754,6 +44351,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" R R
 EndChar
 
 StartChar: lt_RO
@@ -43817,6 +44415,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R O
 EndChar
 
 StartChar: lt_RV
@@ -43869,6 +44468,7 @@ SplineSet
  692.090820312 757.775390625 l 5
  700.432617188 781.342773438 l 5
 EndSplineSet
+Ligature2: "ltligs1" R V
 EndChar
 
 StartChar: lt_OO
@@ -43914,6 +44514,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" O O
 EndChar
 
 StartChar: lt_VP
@@ -43952,6 +44553,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V P
 EndChar
 
 StartChar: lt_VT
@@ -44026,6 +44628,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V T
 EndChar
 
 StartChar: lt_VK
@@ -44083,6 +44686,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V K
 EndChar
 
 StartChar: lt_VS
@@ -44139,6 +44743,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V S
 EndChar
 
 StartChar: lt_VF
@@ -44202,6 +44807,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V F
 EndChar
 
 StartChar: lt_VN
@@ -44254,6 +44860,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V N
 EndChar
 
 StartChar: lt_VM
@@ -44315,6 +44922,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V M
 EndChar
 
 StartChar: lt_VH
@@ -44379,6 +44987,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V H
 EndChar
 
 StartChar: lt_VZ
@@ -44437,6 +45046,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V Z
 EndChar
 
 StartChar: lt_VY
@@ -44503,6 +45113,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V Y
 EndChar
 
 StartChar: lt_VC
@@ -44554,6 +45165,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V C
 EndChar
 
 StartChar: lt_VX
@@ -44606,6 +45218,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V X
 EndChar
 
 StartChar: lt_VL
@@ -44663,6 +45276,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V L
 EndChar
 
 StartChar: lt_VW
@@ -44712,6 +45326,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V W
 EndChar
 
 StartChar: lt_VG
@@ -44786,6 +45401,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V G
 EndChar
 
 StartChar: lt_VQ
@@ -44850,6 +45466,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V Q
 EndChar
 
 StartChar: lt_VD
@@ -44905,6 +45522,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V D
 EndChar
 
 StartChar: lt_VB
@@ -44967,6 +45585,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V B
 EndChar
 
 StartChar: lt_VA
@@ -45025,6 +45644,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V A
 EndChar
 
 StartChar: lt_VI
@@ -45096,6 +45716,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V I
 EndChar
 
 StartChar: lt_VE
@@ -45167,6 +45788,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V E
 EndChar
 
 StartChar: lt_VU
@@ -45232,6 +45854,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V U
 EndChar
 
 StartChar: lt_VR
@@ -45291,6 +45914,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V R
 EndChar
 
 StartChar: lt_VO
@@ -45334,6 +45958,7 @@ SplineSet
  453.343689489 -60.490509003 l 1
  469 -41 l 1
 EndSplineSet
+Ligature2: "ltligs1" V O
 EndChar
 
 StartChar: lt_VV
@@ -45370,6 +45995,7 @@ SplineSet
  572.494140625 -133.529296875 542.359375 -176.853515625 495.6875 -179.864257812 c 0
  447.666015625 -183.293945312 423.951171875 -138.411132812 419.243164062 -105.45703125 c 0
 EndSplineSet
+Ligature2: "ltligs1" V V
 EndChar
 EndChars
 EndSplineFont
