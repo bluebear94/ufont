@@ -4,6 +4,7 @@ import fontforge
 import psMat
 
 CONSONANTS = "PTKSFNMHZYCXLWGQDBAIEUROV"
+VOWELS = "aiyzefmuwvo"
 
 behaviours = {
   "K": {
@@ -168,6 +169,7 @@ font.addLookup("ltligs", "gsub_ligature", (), [
     ("liga", [("latn", ["dflt"])])
   ])
 font.addLookupSubtable("ltligs", "ltligs1")
+font.addLookupSubtable("ltligs", "ltligs2")
 
 for c in CONSONANTS:
   for d in CONSONANTS:
@@ -175,7 +177,18 @@ for c in CONSONANTS:
     glyph = font[glyphname]
     glyph.addPosSub("ltligs1", (c, d))
 
-font.save(sys.argv[2])
+for v in VOWELS:
+  # Lone vowels
+  lvglyph = font["lt_" + v]
+  lvglyph.addPosSub("ltligs2", (v,))
+  lvglyph2 = font["lt_x" + v]
+  lvglyph2.addPosSub("ltligs2", ("x", v))
+  for w in VOWELS:
+    glyph = font["lt_" + v + w]
+    glyph.addPosSub("ltligs2", (v, w))
 
-for g in font.glyphs():
-  print("Name: " + g.glyphname)
+font.selection.all()
+font.removeOverlap()
+font.correctDirection()
+
+font.save(sys.argv[2])
