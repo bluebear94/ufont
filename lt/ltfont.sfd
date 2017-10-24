@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1508636382
-ModificationTime: 1508808467
+ModificationTime: 1508808795
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,7 +51,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 418 38 14
+WinInfo: 38 38 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -62,7 +62,7 @@ Grid
 -1250 1485 m 0
  2500 1485 l 1024
 EndSplineSet
-BeginChars: 1038 835
+BeginChars: 1038 837
 
 StartChar: W
 Encoding: 87 87 0
@@ -15287,8 +15287,77 @@ EndSplineSet
 Validated: 1
 EndChar
 
+StartChar: comma
+Encoding: 44 44 320
+Width: 999
+VWidth: 0
+Flags: W
+HStem: 209 50<480.724 527.037> 544 50<480.724 527.037>
+VStem: 431 147
+LayerCount: 2
+Fore
+SplineSet
+431 502 m 0
+ 427 534 438 592 490 594 c 0
+ 538 598 573 560 578 518 c 0
+ 584 476 555 430 508 428 c 0
+ 460 426 436 468 431 502 c 0
+481 510 m 0
+ 483 487 496 477 504 478 c 0
+ 518 479 531 493 529 511 c 0
+ 527 533 511 546 493 544 c 0
+ 487 544 479 534 481 510 c 0
+431 167 m 0
+ 427 199 438 257 490 259 c 0
+ 538 263 573 225 578 183 c 0
+ 584 141 555 95 508 93 c 0
+ 460 91 436 133 431 167 c 0
+481 175 m 0
+ 483 152 496 142 504 143 c 0
+ 518 144 531 158 529 176 c 0
+ 527 198 511 211 493 209 c 0
+ 487 209 479 199 481 175 c 0
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: period
+Encoding: 46 46 321
+Width: 999
+VWidth: 0
+Flags: W
+HStem: 544 50<480.724 527.037>
+VStem: 480 50<246.62 448.295>
+LayerCount: 2
+Fore
+SplineSet
+431 502 m 0
+ 427 534 438 592 490 594 c 0
+ 538 598 573 560 578 518 c 0
+ 582.996114768 483.027196626 563.724432396 445.280930721 530 432.474276497 c 1
+ 530 251.927269047 l 1
+ 556.644446371 239.31850409 574.533247388 212.120721939 578 183 c 0
+ 584 141 555 95 508 93 c 0
+ 460 91 436 133 431 167 c 0
+ 427.270641875 196.834865002 436.580138774 249.270412046 480 257.850342563 c 1
+ 480 432.417843216 l 1
+ 450.446691873 443.91612705 434.910973808 475.405378105 431 502 c 0
+481 510 m 0
+ 483 487 496 477 504 478 c 0
+ 518 479 531 493 529 511 c 0
+ 527 533 511 546 493 544 c 0
+ 487 544 479 534 481 510 c 0
+481 175 m 0
+ 483 152 496 142 504 143 c 0
+ 518 144 531 158 529 176 c 0
+ 527 198 511 211 493 209 c 0
+ 487 209 479 199 481 175 c 0
+EndSplineSet
+Validated: 524321
+EndChar
+
 StartChar: lt_PP
-Encoding: 523 -1 320
+Encoding: 523 -1 322
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -15345,7 +15414,7 @@ Ligature2: "ltligs1" P P
 EndChar
 
 StartChar: lt_PT
-Encoding: 524 -1 321
+Encoding: 524 -1 323
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -15406,7 +15475,7 @@ Ligature2: "ltligs1" P T
 EndChar
 
 StartChar: lt_PK
-Encoding: 525 -1 322
+Encoding: 525 -1 324
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -15458,7 +15527,7 @@ Ligature2: "ltligs1" P K
 EndChar
 
 StartChar: lt_PF
-Encoding: 526 -1 323
+Encoding: 526 -1 325
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -15539,7 +15608,7 @@ Ligature2: "ltligs1" P F
 EndChar
 
 StartChar: lt_PN
-Encoding: 527 -1 324
+Encoding: 527 -1 326
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -15585,7 +15654,7 @@ Ligature2: "ltligs1" P N
 EndChar
 
 StartChar: lt_PM
-Encoding: 528 -1 325
+Encoding: 528 -1 327
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -15634,7 +15703,7 @@ Ligature2: "ltligs1" P M
 EndChar
 
 StartChar: lt_PZ
-Encoding: 529 -1 326
+Encoding: 529 -1 328
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -15688,7 +15757,7 @@ Ligature2: "ltligs1" P Z
 EndChar
 
 StartChar: lt_PY
-Encoding: 530 -1 327
+Encoding: 530 -1 329
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -15743,7 +15812,7 @@ Ligature2: "ltligs1" P Y
 EndChar
 
 StartChar: lt_PC
-Encoding: 531 -1 328
+Encoding: 531 -1 330
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -15792,7 +15861,7 @@ Ligature2: "ltligs1" P C
 EndChar
 
 StartChar: lt_PX
-Encoding: 532 -1 329
+Encoding: 532 -1 331
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -15853,7 +15922,7 @@ Ligature2: "ltligs1" P X
 EndChar
 
 StartChar: lt_PL
-Encoding: 533 -1 330
+Encoding: 533 -1 332
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -15897,7 +15966,7 @@ Ligature2: "ltligs1" P L
 EndChar
 
 StartChar: lt_PW
-Encoding: 534 -1 331
+Encoding: 534 -1 333
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -15978,7 +16047,7 @@ Ligature2: "ltligs1" P W
 EndChar
 
 StartChar: lt_PD
-Encoding: 535 -1 332
+Encoding: 535 -1 334
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16024,7 +16093,7 @@ Ligature2: "ltligs1" P D
 EndChar
 
 StartChar: lt_PB
-Encoding: 536 -1 333
+Encoding: 536 -1 335
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16093,7 +16162,7 @@ Ligature2: "ltligs1" P B
 EndChar
 
 StartChar: lt_PA
-Encoding: 537 -1 334
+Encoding: 537 -1 336
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16151,7 +16220,7 @@ Ligature2: "ltligs1" P A
 EndChar
 
 StartChar: lt_PI
-Encoding: 538 -1 335
+Encoding: 538 -1 337
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16223,7 +16292,7 @@ Ligature2: "ltligs1" P I
 EndChar
 
 StartChar: lt_PR
-Encoding: 539 -1 336
+Encoding: 539 -1 338
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16274,7 +16343,7 @@ Ligature2: "ltligs1" P R
 EndChar
 
 StartChar: lt_PO
-Encoding: 540 -1 337
+Encoding: 540 -1 339
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16326,7 +16395,7 @@ Ligature2: "ltligs1" P O
 EndChar
 
 StartChar: lt_PV
-Encoding: 541 -1 338
+Encoding: 541 -1 340
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16366,7 +16435,7 @@ Ligature2: "ltligs1" P V
 EndChar
 
 StartChar: lt_TP
-Encoding: 542 -1 339
+Encoding: 542 -1 341
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16462,7 +16531,7 @@ Ligature2: "ltligs1" T P
 EndChar
 
 StartChar: lt_TT
-Encoding: 543 -1 340
+Encoding: 543 -1 342
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16525,7 +16594,7 @@ Ligature2: "ltligs1" T T
 EndChar
 
 StartChar: lt_TK
-Encoding: 544 -1 341
+Encoding: 544 -1 343
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16616,7 +16685,7 @@ Ligature2: "ltligs1" T K
 EndChar
 
 StartChar: lt_TS
-Encoding: 545 -1 342
+Encoding: 545 -1 344
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16709,7 +16778,7 @@ Ligature2: "ltligs1" T S
 EndChar
 
 StartChar: lt_TF
-Encoding: 546 -1 343
+Encoding: 546 -1 345
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16831,7 +16900,7 @@ Ligature2: "ltligs1" T F
 EndChar
 
 StartChar: lt_TN
-Encoding: 547 -1 344
+Encoding: 547 -1 346
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16902,7 +16971,7 @@ Ligature2: "ltligs1" T N
 EndChar
 
 StartChar: lt_TM
-Encoding: 548 -1 345
+Encoding: 548 -1 347
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -16981,7 +17050,7 @@ Ligature2: "ltligs1" T M
 EndChar
 
 StartChar: lt_TH
-Encoding: 549 -1 346
+Encoding: 549 -1 348
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -17070,7 +17139,7 @@ Ligature2: "ltligs1" T H
 EndChar
 
 StartChar: lt_TZ
-Encoding: 550 -1 347
+Encoding: 550 -1 349
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -17161,7 +17230,7 @@ Ligature2: "ltligs1" T Z
 EndChar
 
 StartChar: lt_TY
-Encoding: 551 -1 348
+Encoding: 551 -1 350
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -17242,7 +17311,7 @@ Ligature2: "ltligs1" T Y
 EndChar
 
 StartChar: lt_TC
-Encoding: 552 -1 349
+Encoding: 552 -1 351
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -17316,7 +17385,7 @@ Ligature2: "ltligs1" T C
 EndChar
 
 StartChar: lt_TX
-Encoding: 553 -1 350
+Encoding: 553 -1 352
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -17406,7 +17475,7 @@ Ligature2: "ltligs1" T X
 EndChar
 
 StartChar: lt_TL
-Encoding: 554 -1 351
+Encoding: 554 -1 353
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -17484,7 +17553,7 @@ Ligature2: "ltligs1" T L
 EndChar
 
 StartChar: lt_TW
-Encoding: 555 -1 352
+Encoding: 555 -1 354
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -17595,7 +17664,7 @@ Ligature2: "ltligs1" T W
 EndChar
 
 StartChar: lt_TG
-Encoding: 556 -1 353
+Encoding: 556 -1 355
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -17690,7 +17759,7 @@ Ligature2: "ltligs1" T G
 EndChar
 
 StartChar: lt_TQ
-Encoding: 557 -1 354
+Encoding: 557 -1 356
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -17760,7 +17829,7 @@ Ligature2: "ltligs1" T Q
 EndChar
 
 StartChar: lt_TD
-Encoding: 558 -1 355
+Encoding: 558 -1 357
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -17833,7 +17902,7 @@ Ligature2: "ltligs1" T D
 EndChar
 
 StartChar: lt_TB
-Encoding: 559 -1 356
+Encoding: 559 -1 358
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -17951,7 +18020,7 @@ Ligature2: "ltligs1" T B
 EndChar
 
 StartChar: lt_TA
-Encoding: 560 -1 357
+Encoding: 560 -1 359
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -18043,7 +18112,7 @@ Ligature2: "ltligs1" T A
 EndChar
 
 StartChar: lt_TI
-Encoding: 561 -1 358
+Encoding: 561 -1 360
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -18155,7 +18224,7 @@ Ligature2: "ltligs1" T I
 EndChar
 
 StartChar: lt_TE
-Encoding: 562 -1 359
+Encoding: 562 -1 361
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -18270,7 +18339,7 @@ Ligature2: "ltligs1" T E
 EndChar
 
 StartChar: lt_TU
-Encoding: 563 -1 360
+Encoding: 563 -1 362
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -18360,7 +18429,7 @@ Ligature2: "ltligs1" T U
 EndChar
 
 StartChar: lt_TR
-Encoding: 564 -1 361
+Encoding: 564 -1 363
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -18453,7 +18522,7 @@ Ligature2: "ltligs1" T R
 EndChar
 
 StartChar: lt_TO
-Encoding: 565 -1 362
+Encoding: 565 -1 364
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -18537,7 +18606,7 @@ Ligature2: "ltligs1" T O
 EndChar
 
 StartChar: lt_TV
-Encoding: 566 -1 363
+Encoding: 566 -1 365
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -18604,7 +18673,7 @@ Ligature2: "ltligs1" T V
 EndChar
 
 StartChar: lt_KP
-Encoding: 567 -1 364
+Encoding: 567 -1 366
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -18681,7 +18750,7 @@ Ligature2: "ltligs1" K P
 EndChar
 
 StartChar: lt_KT
-Encoding: 568 -1 365
+Encoding: 568 -1 367
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -18766,7 +18835,7 @@ Ligature2: "ltligs1" K T
 EndChar
 
 StartChar: lt_KK
-Encoding: 569 -1 366
+Encoding: 569 -1 368
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -18820,7 +18889,7 @@ Ligature2: "ltligs1" K K
 EndChar
 
 StartChar: lt_KS
-Encoding: 570 -1 367
+Encoding: 570 -1 369
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -18892,7 +18961,7 @@ Ligature2: "ltligs1" K S
 EndChar
 
 StartChar: lt_KF
-Encoding: 571 -1 368
+Encoding: 571 -1 370
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19007,7 +19076,7 @@ Ligature2: "ltligs1" K F
 EndChar
 
 StartChar: lt_KN
-Encoding: 572 -1 369
+Encoding: 572 -1 371
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19067,7 +19136,7 @@ Ligature2: "ltligs1" K N
 EndChar
 
 StartChar: lt_KM
-Encoding: 573 -1 370
+Encoding: 573 -1 372
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19135,7 +19204,7 @@ Ligature2: "ltligs1" K M
 EndChar
 
 StartChar: lt_KH
-Encoding: 574 -1 371
+Encoding: 574 -1 373
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19208,7 +19277,7 @@ Ligature2: "ltligs1" K H
 EndChar
 
 StartChar: lt_KZ
-Encoding: 575 -1 372
+Encoding: 575 -1 374
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19285,7 +19354,7 @@ Ligature2: "ltligs1" K Z
 EndChar
 
 StartChar: lt_KY
-Encoding: 576 -1 373
+Encoding: 576 -1 375
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19348,7 +19417,7 @@ Ligature2: "ltligs1" K Y
 EndChar
 
 StartChar: lt_KC
-Encoding: 577 -1 374
+Encoding: 577 -1 376
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19399,7 +19468,7 @@ Ligature2: "ltligs1" K C
 EndChar
 
 StartChar: lt_KX
-Encoding: 578 -1 375
+Encoding: 578 -1 377
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19472,7 +19541,7 @@ Ligature2: "ltligs1" K X
 EndChar
 
 StartChar: lt_KL
-Encoding: 579 -1 376
+Encoding: 579 -1 378
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19536,7 +19605,7 @@ Ligature2: "ltligs1" K L
 EndChar
 
 StartChar: lt_KW
-Encoding: 580 -1 377
+Encoding: 580 -1 379
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19626,7 +19695,7 @@ Ligature2: "ltligs1" K W
 EndChar
 
 StartChar: lt_KG
-Encoding: 581 -1 378
+Encoding: 581 -1 380
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19703,7 +19772,7 @@ Ligature2: "ltligs1" K G
 EndChar
 
 StartChar: lt_KQ
-Encoding: 582 -1 379
+Encoding: 582 -1 381
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19776,7 +19845,7 @@ Ligature2: "ltligs1" K Q
 EndChar
 
 StartChar: lt_KD
-Encoding: 583 -1 380
+Encoding: 583 -1 382
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19849,7 +19918,7 @@ Ligature2: "ltligs1" K D
 EndChar
 
 StartChar: lt_KB
-Encoding: 584 -1 381
+Encoding: 584 -1 383
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -19942,7 +20011,7 @@ Ligature2: "ltligs1" K B
 EndChar
 
 StartChar: lt_KA
-Encoding: 585 -1 382
+Encoding: 585 -1 384
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20017,7 +20086,7 @@ Ligature2: "ltligs1" K A
 EndChar
 
 StartChar: lt_KI
-Encoding: 586 -1 383
+Encoding: 586 -1 385
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20107,7 +20176,7 @@ Ligature2: "ltligs1" K I
 EndChar
 
 StartChar: lt_KE
-Encoding: 587 -1 384
+Encoding: 587 -1 386
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20193,7 +20262,7 @@ Ligature2: "ltligs1" K E
 EndChar
 
 StartChar: lt_KU
-Encoding: 588 -1 385
+Encoding: 588 -1 387
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20273,7 +20342,7 @@ Ligature2: "ltligs1" K U
 EndChar
 
 StartChar: lt_KR
-Encoding: 589 -1 386
+Encoding: 589 -1 388
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20354,7 +20423,7 @@ Ligature2: "ltligs1" K R
 EndChar
 
 StartChar: lt_KO
-Encoding: 590 -1 387
+Encoding: 590 -1 389
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20417,7 +20486,7 @@ Ligature2: "ltligs1" K O
 EndChar
 
 StartChar: lt_KV
-Encoding: 591 -1 388
+Encoding: 591 -1 390
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20472,7 +20541,7 @@ Ligature2: "ltligs1" K V
 EndChar
 
 StartChar: lt_ST
-Encoding: 592 -1 389
+Encoding: 592 -1 391
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20546,7 +20615,7 @@ Ligature2: "ltligs1" S T
 EndChar
 
 StartChar: lt_SK
-Encoding: 593 -1 390
+Encoding: 593 -1 392
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20611,7 +20680,7 @@ Ligature2: "ltligs1" S K
 EndChar
 
 StartChar: lt_SS
-Encoding: 594 -1 391
+Encoding: 594 -1 393
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20667,7 +20736,7 @@ Ligature2: "ltligs1" S S
 EndChar
 
 StartChar: lt_SF
-Encoding: 595 -1 392
+Encoding: 595 -1 394
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20759,7 +20828,7 @@ Ligature2: "ltligs1" S F
 EndChar
 
 StartChar: lt_SN
-Encoding: 596 -1 393
+Encoding: 596 -1 395
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20818,7 +20887,7 @@ Ligature2: "ltligs1" S N
 EndChar
 
 StartChar: lt_SM
-Encoding: 597 -1 394
+Encoding: 597 -1 396
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20879,7 +20948,7 @@ Ligature2: "ltligs1" S M
 EndChar
 
 StartChar: lt_SH
-Encoding: 598 -1 395
+Encoding: 598 -1 397
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -20946,7 +21015,7 @@ Ligature2: "ltligs1" S H
 EndChar
 
 StartChar: lt_SZ
-Encoding: 599 -1 396
+Encoding: 599 -1 398
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21014,7 +21083,7 @@ Ligature2: "ltligs1" S Z
 EndChar
 
 StartChar: lt_SY
-Encoding: 600 -1 397
+Encoding: 600 -1 399
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21077,7 +21146,7 @@ Ligature2: "ltligs1" S Y
 EndChar
 
 StartChar: lt_SC
-Encoding: 601 -1 398
+Encoding: 601 -1 400
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21139,7 +21208,7 @@ Ligature2: "ltligs1" S C
 EndChar
 
 StartChar: lt_SX
-Encoding: 602 -1 399
+Encoding: 602 -1 401
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21210,7 +21279,7 @@ Ligature2: "ltligs1" S X
 EndChar
 
 StartChar: lt_SL
-Encoding: 603 -1 400
+Encoding: 603 -1 402
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21270,7 +21339,7 @@ Ligature2: "ltligs1" S L
 EndChar
 
 StartChar: lt_SW
-Encoding: 604 -1 401
+Encoding: 604 -1 403
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21365,7 +21434,7 @@ Ligature2: "ltligs1" S W
 EndChar
 
 StartChar: lt_SG
-Encoding: 605 -1 402
+Encoding: 605 -1 404
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21437,7 +21506,7 @@ Ligature2: "ltligs1" S G
 EndChar
 
 StartChar: lt_SQ
-Encoding: 606 -1 403
+Encoding: 606 -1 405
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21501,7 +21570,7 @@ Ligature2: "ltligs1" S Q
 EndChar
 
 StartChar: lt_SD
-Encoding: 607 -1 404
+Encoding: 607 -1 406
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21562,7 +21631,7 @@ Ligature2: "ltligs1" S D
 EndChar
 
 StartChar: lt_SB
-Encoding: 608 -1 405
+Encoding: 608 -1 407
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21643,7 +21712,7 @@ Ligature2: "ltligs1" S B
 EndChar
 
 StartChar: lt_SA
-Encoding: 609 -1 406
+Encoding: 609 -1 408
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21714,7 +21783,7 @@ Ligature2: "ltligs1" S A
 EndChar
 
 StartChar: lt_SI
-Encoding: 610 -1 407
+Encoding: 610 -1 409
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21800,7 +21869,7 @@ Ligature2: "ltligs1" S I
 EndChar
 
 StartChar: lt_SE
-Encoding: 611 -1 408
+Encoding: 611 -1 410
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21886,7 +21955,7 @@ Ligature2: "ltligs1" S E
 EndChar
 
 StartChar: lt_SU
-Encoding: 612 -1 409
+Encoding: 612 -1 411
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -21957,7 +22026,7 @@ Ligature2: "ltligs1" S U
 EndChar
 
 StartChar: lt_SR
-Encoding: 613 -1 410
+Encoding: 613 -1 412
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22026,7 +22095,7 @@ Ligature2: "ltligs1" S R
 EndChar
 
 StartChar: lt_SO
-Encoding: 614 -1 411
+Encoding: 614 -1 413
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22091,7 +22160,7 @@ Ligature2: "ltligs1" S O
 EndChar
 
 StartChar: lt_SV
-Encoding: 615 -1 412
+Encoding: 615 -1 414
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22148,7 +22217,7 @@ Ligature2: "ltligs1" S V
 EndChar
 
 StartChar: lt_FP
-Encoding: 616 -1 413
+Encoding: 616 -1 415
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22228,7 +22297,7 @@ Ligature2: "ltligs1" F P
 EndChar
 
 StartChar: lt_FT
-Encoding: 617 -1 414
+Encoding: 617 -1 416
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22318,7 +22387,7 @@ Ligature2: "ltligs1" F T
 EndChar
 
 StartChar: lt_FK
-Encoding: 618 -1 415
+Encoding: 618 -1 417
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22393,7 +22462,7 @@ Ligature2: "ltligs1" F K
 EndChar
 
 StartChar: lt_FS
-Encoding: 619 -1 416
+Encoding: 619 -1 418
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22481,7 +22550,7 @@ Ligature2: "ltligs1" F S
 EndChar
 
 StartChar: lt_FF
-Encoding: 620 -1 417
+Encoding: 620 -1 419
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22561,7 +22630,7 @@ Ligature2: "ltligs1" F F
 EndChar
 
 StartChar: lt_FN
-Encoding: 621 -1 418
+Encoding: 621 -1 420
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22637,7 +22706,7 @@ Ligature2: "ltligs1" F N
 EndChar
 
 StartChar: lt_FM
-Encoding: 622 -1 419
+Encoding: 622 -1 421
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22711,7 +22780,7 @@ Ligature2: "ltligs1" F M
 EndChar
 
 StartChar: lt_FH
-Encoding: 623 -1 420
+Encoding: 623 -1 422
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22798,7 +22867,7 @@ Ligature2: "ltligs1" F H
 EndChar
 
 StartChar: lt_FZ
-Encoding: 624 -1 421
+Encoding: 624 -1 423
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22887,7 +22956,7 @@ Ligature2: "ltligs1" F Z
 EndChar
 
 StartChar: lt_FY
-Encoding: 625 -1 422
+Encoding: 625 -1 424
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -22974,7 +23043,7 @@ Ligature2: "ltligs1" F Y
 EndChar
 
 StartChar: lt_FC
-Encoding: 626 -1 423
+Encoding: 626 -1 425
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -23048,7 +23117,7 @@ Ligature2: "ltligs1" F C
 EndChar
 
 StartChar: lt_FX
-Encoding: 627 -1 424
+Encoding: 627 -1 426
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -23137,7 +23206,7 @@ Ligature2: "ltligs1" F X
 EndChar
 
 StartChar: lt_FL
-Encoding: 628 -1 425
+Encoding: 628 -1 427
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -23211,7 +23280,7 @@ Ligature2: "ltligs1" F L
 EndChar
 
 StartChar: lt_FW
-Encoding: 629 -1 426
+Encoding: 629 -1 428
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -23329,7 +23398,7 @@ Ligature2: "ltligs1" F W
 EndChar
 
 StartChar: lt_FG
-Encoding: 630 -1 427
+Encoding: 630 -1 429
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -23420,7 +23489,7 @@ Ligature2: "ltligs1" F G
 EndChar
 
 StartChar: lt_FQ
-Encoding: 631 -1 428
+Encoding: 631 -1 430
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -23504,7 +23573,7 @@ Ligature2: "ltligs1" F Q
 EndChar
 
 StartChar: lt_FD
-Encoding: 632 -1 429
+Encoding: 632 -1 431
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -23582,7 +23651,7 @@ Ligature2: "ltligs1" F D
 EndChar
 
 StartChar: lt_FB
-Encoding: 633 -1 430
+Encoding: 633 -1 432
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -23684,7 +23753,7 @@ Ligature2: "ltligs1" F B
 EndChar
 
 StartChar: lt_FA
-Encoding: 634 -1 431
+Encoding: 634 -1 433
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -23773,7 +23842,7 @@ Ligature2: "ltligs1" F A
 EndChar
 
 StartChar: lt_FI
-Encoding: 635 -1 432
+Encoding: 635 -1 434
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -23890,7 +23959,7 @@ Ligature2: "ltligs1" F I
 EndChar
 
 StartChar: lt_FE
-Encoding: 636 -1 433
+Encoding: 636 -1 435
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -23995,7 +24064,7 @@ Ligature2: "ltligs1" F E
 EndChar
 
 StartChar: lt_FU
-Encoding: 637 -1 434
+Encoding: 637 -1 436
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24087,7 +24156,7 @@ Ligature2: "ltligs1" F U
 EndChar
 
 StartChar: lt_FR
-Encoding: 638 -1 435
+Encoding: 638 -1 437
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24179,7 +24248,7 @@ Ligature2: "ltligs1" F R
 EndChar
 
 StartChar: lt_FO
-Encoding: 639 -1 436
+Encoding: 639 -1 438
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24263,7 +24332,7 @@ Ligature2: "ltligs1" F O
 EndChar
 
 StartChar: lt_FV
-Encoding: 640 -1 437
+Encoding: 640 -1 439
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24338,7 +24407,7 @@ Ligature2: "ltligs1" F V
 EndChar
 
 StartChar: lt_NP
-Encoding: 641 -1 438
+Encoding: 641 -1 440
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24391,7 +24460,7 @@ Ligature2: "ltligs1" N P
 EndChar
 
 StartChar: lt_NT
-Encoding: 642 -1 439
+Encoding: 642 -1 441
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24469,7 +24538,7 @@ Ligature2: "ltligs1" N T
 EndChar
 
 StartChar: lt_NK
-Encoding: 643 -1 440
+Encoding: 643 -1 442
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24536,7 +24605,7 @@ Ligature2: "ltligs1" N K
 EndChar
 
 StartChar: lt_NS
-Encoding: 644 -1 441
+Encoding: 644 -1 443
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24602,7 +24671,7 @@ Ligature2: "ltligs1" N S
 EndChar
 
 StartChar: lt_NF
-Encoding: 645 -1 442
+Encoding: 645 -1 444
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24685,7 +24754,7 @@ Ligature2: "ltligs1" N F
 EndChar
 
 StartChar: lt_NN
-Encoding: 646 -1 443
+Encoding: 646 -1 445
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24729,7 +24798,7 @@ Ligature2: "ltligs1" N N
 EndChar
 
 StartChar: lt_NM
-Encoding: 647 -1 444
+Encoding: 647 -1 446
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24792,7 +24861,7 @@ Ligature2: "ltligs1" N M
 EndChar
 
 StartChar: lt_NH
-Encoding: 648 -1 445
+Encoding: 648 -1 447
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24880,7 +24949,7 @@ Ligature2: "ltligs1" N H
 EndChar
 
 StartChar: lt_NZ
-Encoding: 649 -1 446
+Encoding: 649 -1 448
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -24945,7 +25014,7 @@ Ligature2: "ltligs1" N Z
 EndChar
 
 StartChar: lt_NY
-Encoding: 650 -1 447
+Encoding: 650 -1 449
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25025,7 +25094,7 @@ Ligature2: "ltligs1" N Y
 EndChar
 
 StartChar: lt_NC
-Encoding: 651 -1 448
+Encoding: 651 -1 450
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25086,7 +25155,7 @@ Ligature2: "ltligs1" N C
 EndChar
 
 StartChar: lt_NX
-Encoding: 652 -1 449
+Encoding: 652 -1 451
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25148,7 +25217,7 @@ Ligature2: "ltligs1" N X
 EndChar
 
 StartChar: lt_NL
-Encoding: 653 -1 450
+Encoding: 653 -1 452
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25215,7 +25284,7 @@ Ligature2: "ltligs1" N L
 EndChar
 
 StartChar: lt_NW
-Encoding: 654 -1 451
+Encoding: 654 -1 453
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25287,7 +25356,7 @@ Ligature2: "ltligs1" N W
 EndChar
 
 StartChar: lt_NG
-Encoding: 655 -1 452
+Encoding: 655 -1 454
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25369,7 +25438,7 @@ Ligature2: "ltligs1" N G
 EndChar
 
 StartChar: lt_NQ
-Encoding: 656 -1 453
+Encoding: 656 -1 455
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25454,7 +25523,7 @@ Ligature2: "ltligs1" N Q
 EndChar
 
 StartChar: lt_ND
-Encoding: 657 -1 454
+Encoding: 657 -1 456
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25529,7 +25598,7 @@ Ligature2: "ltligs1" N D
 EndChar
 
 StartChar: lt_NB
-Encoding: 658 -1 455
+Encoding: 658 -1 457
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25602,7 +25671,7 @@ Ligature2: "ltligs1" N B
 EndChar
 
 StartChar: lt_NA
-Encoding: 659 -1 456
+Encoding: 659 -1 458
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25670,7 +25739,7 @@ Ligature2: "ltligs1" N A
 EndChar
 
 StartChar: lt_NI
-Encoding: 660 -1 457
+Encoding: 660 -1 459
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25779,7 +25848,7 @@ Ligature2: "ltligs1" N I
 EndChar
 
 StartChar: lt_NE
-Encoding: 661 -1 458
+Encoding: 661 -1 460
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25855,7 +25924,7 @@ Ligature2: "ltligs1" N E
 EndChar
 
 StartChar: lt_NU
-Encoding: 662 -1 459
+Encoding: 662 -1 461
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -25936,7 +26005,7 @@ Ligature2: "ltligs1" N U
 EndChar
 
 StartChar: lt_NR
-Encoding: 663 -1 460
+Encoding: 663 -1 462
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26000,7 +26069,7 @@ Ligature2: "ltligs1" N R
 EndChar
 
 StartChar: lt_NO
-Encoding: 664 -1 461
+Encoding: 664 -1 463
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26051,7 +26120,7 @@ Ligature2: "ltligs1" N O
 EndChar
 
 StartChar: lt_NV
-Encoding: 665 -1 462
+Encoding: 665 -1 464
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26118,7 +26187,7 @@ Ligature2: "ltligs1" N V
 EndChar
 
 StartChar: lt_MM
-Encoding: 666 -1 463
+Encoding: 666 -1 465
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26164,7 +26233,7 @@ Ligature2: "ltligs1" M M
 EndChar
 
 StartChar: lt_HP
-Encoding: 667 -1 464
+Encoding: 667 -1 466
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26229,7 +26298,7 @@ Ligature2: "ltligs1" H P
 EndChar
 
 StartChar: lt_HT
-Encoding: 668 -1 465
+Encoding: 668 -1 467
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26325,7 +26394,7 @@ Ligature2: "ltligs1" H T
 EndChar
 
 StartChar: lt_HK
-Encoding: 669 -1 466
+Encoding: 669 -1 468
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26405,7 +26474,7 @@ Ligature2: "ltligs1" H K
 EndChar
 
 StartChar: lt_HS
-Encoding: 670 -1 467
+Encoding: 670 -1 469
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26479,7 +26548,7 @@ Ligature2: "ltligs1" H S
 EndChar
 
 StartChar: lt_HF
-Encoding: 671 -1 468
+Encoding: 671 -1 470
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26573,7 +26642,7 @@ Ligature2: "ltligs1" H F
 EndChar
 
 StartChar: lt_HN
-Encoding: 672 -1 469
+Encoding: 672 -1 471
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26668,7 +26737,7 @@ Ligature2: "ltligs1" H N
 EndChar
 
 StartChar: lt_HM
-Encoding: 673 -1 470
+Encoding: 673 -1 472
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26735,7 +26804,7 @@ Ligature2: "ltligs1" H M
 EndChar
 
 StartChar: lt_HH
-Encoding: 674 -1 471
+Encoding: 674 -1 473
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26791,7 +26860,7 @@ Ligature2: "ltligs1" H H
 EndChar
 
 StartChar: lt_HZ
-Encoding: 675 -1 472
+Encoding: 675 -1 474
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26870,7 +26939,7 @@ Ligature2: "ltligs1" H Z
 EndChar
 
 StartChar: lt_HY
-Encoding: 676 -1 473
+Encoding: 676 -1 475
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -26960,7 +27029,7 @@ Ligature2: "ltligs1" H Y
 EndChar
 
 StartChar: lt_HC
-Encoding: 677 -1 474
+Encoding: 677 -1 476
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -27041,7 +27110,7 @@ Ligature2: "ltligs1" H C
 EndChar
 
 StartChar: lt_HX
-Encoding: 678 -1 475
+Encoding: 678 -1 477
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -27115,7 +27184,7 @@ Ligature2: "ltligs1" H X
 EndChar
 
 StartChar: lt_HL
-Encoding: 679 -1 476
+Encoding: 679 -1 478
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -27196,7 +27265,7 @@ Ligature2: "ltligs1" H L
 EndChar
 
 StartChar: lt_HW
-Encoding: 680 -1 477
+Encoding: 680 -1 479
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -27302,7 +27371,7 @@ Ligature2: "ltligs1" H W
 EndChar
 
 StartChar: lt_HG
-Encoding: 681 -1 478
+Encoding: 681 -1 480
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -27400,7 +27469,7 @@ Ligature2: "ltligs1" H G
 EndChar
 
 StartChar: lt_HQ
-Encoding: 682 -1 479
+Encoding: 682 -1 481
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -27488,7 +27557,7 @@ Ligature2: "ltligs1" H Q
 EndChar
 
 StartChar: lt_HD
-Encoding: 683 -1 480
+Encoding: 683 -1 482
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -27579,7 +27648,7 @@ Ligature2: "ltligs1" H D
 EndChar
 
 StartChar: lt_HB
-Encoding: 684 -1 481
+Encoding: 684 -1 483
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -27663,7 +27732,7 @@ Ligature2: "ltligs1" H B
 EndChar
 
 StartChar: lt_HA
-Encoding: 685 -1 482
+Encoding: 685 -1 484
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -27751,7 +27820,7 @@ Ligature2: "ltligs1" H A
 EndChar
 
 StartChar: lt_HI
-Encoding: 686 -1 483
+Encoding: 686 -1 485
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -27866,7 +27935,7 @@ Ligature2: "ltligs1" H I
 EndChar
 
 StartChar: lt_HE
-Encoding: 687 -1 484
+Encoding: 687 -1 486
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -27956,7 +28025,7 @@ Ligature2: "ltligs1" H E
 EndChar
 
 StartChar: lt_HU
-Encoding: 688 -1 485
+Encoding: 688 -1 487
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -28043,7 +28112,7 @@ Ligature2: "ltligs1" H U
 EndChar
 
 StartChar: lt_HR
-Encoding: 689 -1 486
+Encoding: 689 -1 488
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -28123,7 +28192,7 @@ Ligature2: "ltligs1" H R
 EndChar
 
 StartChar: lt_HO
-Encoding: 690 -1 487
+Encoding: 690 -1 489
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -28186,7 +28255,7 @@ Ligature2: "ltligs1" H O
 EndChar
 
 StartChar: lt_HV
-Encoding: 691 -1 488
+Encoding: 691 -1 490
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -28272,7 +28341,7 @@ Ligature2: "ltligs1" H V
 EndChar
 
 StartChar: lt_ZZ
-Encoding: 692 -1 489
+Encoding: 692 -1 491
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -28325,7 +28394,7 @@ Ligature2: "ltligs1" Z Z
 EndChar
 
 StartChar: lt_YP
-Encoding: 693 -1 490
+Encoding: 693 -1 492
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -28421,7 +28490,7 @@ Ligature2: "ltligs1" Y P
 EndChar
 
 StartChar: lt_YT
-Encoding: 694 -1 491
+Encoding: 694 -1 493
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -28517,7 +28586,7 @@ Ligature2: "ltligs1" Y T
 EndChar
 
 StartChar: lt_YK
-Encoding: 695 -1 492
+Encoding: 695 -1 494
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -28605,7 +28674,7 @@ Ligature2: "ltligs1" Y K
 EndChar
 
 StartChar: lt_YS
-Encoding: 696 -1 493
+Encoding: 696 -1 495
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -28688,7 +28757,7 @@ Ligature2: "ltligs1" Y S
 EndChar
 
 StartChar: lt_YF
-Encoding: 697 -1 494
+Encoding: 697 -1 496
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -28819,7 +28888,7 @@ Ligature2: "ltligs1" Y F
 EndChar
 
 StartChar: lt_YN
-Encoding: 698 -1 495
+Encoding: 698 -1 497
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -28892,7 +28961,7 @@ Ligature2: "ltligs1" Y N
 EndChar
 
 StartChar: lt_YM
-Encoding: 699 -1 496
+Encoding: 699 -1 498
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -28974,7 +29043,7 @@ Ligature2: "ltligs1" Y M
 EndChar
 
 StartChar: lt_YH
-Encoding: 700 -1 497
+Encoding: 700 -1 499
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -29057,7 +29126,7 @@ Ligature2: "ltligs1" Y H
 EndChar
 
 StartChar: lt_YZ
-Encoding: 701 -1 498
+Encoding: 701 -1 500
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -29142,7 +29211,7 @@ Ligature2: "ltligs1" Y Z
 EndChar
 
 StartChar: lt_YY
-Encoding: 702 -1 499
+Encoding: 702 -1 501
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -29194,7 +29263,7 @@ Ligature2: "ltligs1" Y Y
 EndChar
 
 StartChar: lt_YC
-Encoding: 703 -1 500
+Encoding: 703 -1 502
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -29256,7 +29325,7 @@ Ligature2: "ltligs1" Y C
 EndChar
 
 StartChar: lt_YX
-Encoding: 704 -1 501
+Encoding: 704 -1 503
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -29342,7 +29411,7 @@ Ligature2: "ltligs1" Y X
 EndChar
 
 StartChar: lt_YL
-Encoding: 705 -1 502
+Encoding: 705 -1 504
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -29421,7 +29490,7 @@ Ligature2: "ltligs1" Y L
 EndChar
 
 StartChar: lt_YW
-Encoding: 706 -1 503
+Encoding: 706 -1 505
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -29531,7 +29600,7 @@ Ligature2: "ltligs1" Y W
 EndChar
 
 StartChar: lt_YG
-Encoding: 707 -1 504
+Encoding: 707 -1 506
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -29616,7 +29685,7 @@ Ligature2: "ltligs1" Y G
 EndChar
 
 StartChar: lt_YQ
-Encoding: 708 -1 505
+Encoding: 708 -1 507
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -29702,7 +29771,7 @@ Ligature2: "ltligs1" Y Q
 EndChar
 
 StartChar: lt_YD
-Encoding: 709 -1 506
+Encoding: 709 -1 508
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -29785,7 +29854,7 @@ Ligature2: "ltligs1" Y D
 EndChar
 
 StartChar: lt_YB
-Encoding: 710 -1 507
+Encoding: 710 -1 509
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -29907,7 +29976,7 @@ Ligature2: "ltligs1" Y B
 EndChar
 
 StartChar: lt_YA
-Encoding: 711 -1 508
+Encoding: 711 -1 510
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -29997,7 +30066,7 @@ Ligature2: "ltligs1" Y A
 EndChar
 
 StartChar: lt_YI
-Encoding: 712 -1 509
+Encoding: 712 -1 511
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -30102,7 +30171,7 @@ Ligature2: "ltligs1" Y I
 EndChar
 
 StartChar: lt_YE
-Encoding: 713 -1 510
+Encoding: 713 -1 512
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -30205,7 +30274,7 @@ Ligature2: "ltligs1" Y E
 EndChar
 
 StartChar: lt_YU
-Encoding: 714 -1 511
+Encoding: 714 -1 513
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -30293,7 +30362,7 @@ Ligature2: "ltligs1" Y U
 EndChar
 
 StartChar: lt_YR
-Encoding: 715 -1 512
+Encoding: 715 -1 514
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -30387,7 +30456,7 @@ Ligature2: "ltligs1" Y R
 EndChar
 
 StartChar: lt_YO
-Encoding: 716 -1 513
+Encoding: 716 -1 515
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -30461,7 +30530,7 @@ Ligature2: "ltligs1" Y O
 EndChar
 
 StartChar: lt_YV
-Encoding: 717 -1 514
+Encoding: 717 -1 516
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -30527,7 +30596,7 @@ Ligature2: "ltligs1" Y V
 EndChar
 
 StartChar: lt_CP
-Encoding: 718 -1 515
+Encoding: 718 -1 517
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -30602,7 +30671,7 @@ Ligature2: "ltligs1" C P
 EndChar
 
 StartChar: lt_CT
-Encoding: 719 -1 516
+Encoding: 719 -1 518
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -30685,7 +30754,7 @@ Ligature2: "ltligs1" C T
 EndChar
 
 StartChar: lt_CK
-Encoding: 720 -1 517
+Encoding: 720 -1 519
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -30759,7 +30828,7 @@ Ligature2: "ltligs1" C K
 EndChar
 
 StartChar: lt_CS
-Encoding: 721 -1 518
+Encoding: 721 -1 520
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -30830,7 +30899,7 @@ Ligature2: "ltligs1" C S
 EndChar
 
 StartChar: lt_CF
-Encoding: 722 -1 519
+Encoding: 722 -1 521
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -30936,7 +31005,7 @@ Ligature2: "ltligs1" C F
 EndChar
 
 StartChar: lt_CN
-Encoding: 723 -1 520
+Encoding: 723 -1 522
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -30990,7 +31059,7 @@ Ligature2: "ltligs1" C N
 EndChar
 
 StartChar: lt_CM
-Encoding: 724 -1 521
+Encoding: 724 -1 523
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31052,7 +31121,7 @@ Ligature2: "ltligs1" C M
 EndChar
 
 StartChar: lt_CH
-Encoding: 725 -1 522
+Encoding: 725 -1 524
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31126,7 +31195,7 @@ Ligature2: "ltligs1" C H
 EndChar
 
 StartChar: lt_CZ
-Encoding: 726 -1 523
+Encoding: 726 -1 525
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31197,7 +31266,7 @@ Ligature2: "ltligs1" C Z
 EndChar
 
 StartChar: lt_CY
-Encoding: 727 -1 524
+Encoding: 727 -1 526
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31256,7 +31325,7 @@ Ligature2: "ltligs1" C Y
 EndChar
 
 StartChar: lt_CC
-Encoding: 728 -1 525
+Encoding: 728 -1 527
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31302,7 +31371,7 @@ Ligature2: "ltligs1" C C
 EndChar
 
 StartChar: lt_CX
-Encoding: 729 -1 526
+Encoding: 729 -1 528
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31380,7 +31449,7 @@ Ligature2: "ltligs1" C X
 EndChar
 
 StartChar: lt_CL
-Encoding: 730 -1 527
+Encoding: 730 -1 529
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31437,7 +31506,7 @@ Ligature2: "ltligs1" C L
 EndChar
 
 StartChar: lt_CW
-Encoding: 731 -1 528
+Encoding: 731 -1 530
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31526,7 +31595,7 @@ Ligature2: "ltligs1" C W
 EndChar
 
 StartChar: lt_CG
-Encoding: 732 -1 529
+Encoding: 732 -1 531
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31604,7 +31673,7 @@ Ligature2: "ltligs1" C G
 EndChar
 
 StartChar: lt_CQ
-Encoding: 733 -1 530
+Encoding: 733 -1 532
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31661,7 +31730,7 @@ Ligature2: "ltligs1" C Q
 EndChar
 
 StartChar: lt_CD
-Encoding: 734 -1 531
+Encoding: 734 -1 533
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31728,7 +31797,7 @@ Ligature2: "ltligs1" C D
 EndChar
 
 StartChar: lt_CB
-Encoding: 735 -1 532
+Encoding: 735 -1 534
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31825,7 +31894,7 @@ Ligature2: "ltligs1" C B
 EndChar
 
 StartChar: lt_CA
-Encoding: 736 -1 533
+Encoding: 736 -1 535
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31896,7 +31965,7 @@ Ligature2: "ltligs1" C A
 EndChar
 
 StartChar: lt_CI
-Encoding: 737 -1 534
+Encoding: 737 -1 536
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -31984,7 +32053,7 @@ Ligature2: "ltligs1" C I
 EndChar
 
 StartChar: lt_CE
-Encoding: 738 -1 535
+Encoding: 738 -1 537
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32078,7 +32147,7 @@ Ligature2: "ltligs1" C E
 EndChar
 
 StartChar: lt_CU
-Encoding: 739 -1 536
+Encoding: 739 -1 538
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32152,7 +32221,7 @@ Ligature2: "ltligs1" C U
 EndChar
 
 StartChar: lt_CR
-Encoding: 740 -1 537
+Encoding: 740 -1 539
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32227,7 +32296,7 @@ Ligature2: "ltligs1" C R
 EndChar
 
 StartChar: lt_CO
-Encoding: 741 -1 538
+Encoding: 741 -1 540
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32289,7 +32358,7 @@ Ligature2: "ltligs1" C O
 EndChar
 
 StartChar: lt_CV
-Encoding: 742 -1 539
+Encoding: 742 -1 541
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32338,7 +32407,7 @@ Ligature2: "ltligs1" C V
 EndChar
 
 StartChar: lt_XP
-Encoding: 743 -1 540
+Encoding: 743 -1 542
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32414,7 +32483,7 @@ Ligature2: "ltligs1" X P
 EndChar
 
 StartChar: lt_XT
-Encoding: 744 -1 541
+Encoding: 744 -1 543
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32498,7 +32567,7 @@ Ligature2: "ltligs1" X T
 EndChar
 
 StartChar: lt_XK
-Encoding: 745 -1 542
+Encoding: 745 -1 544
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32574,7 +32643,7 @@ Ligature2: "ltligs1" X K
 EndChar
 
 StartChar: lt_XS
-Encoding: 746 -1 543
+Encoding: 746 -1 545
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32649,7 +32718,7 @@ Ligature2: "ltligs1" X S
 EndChar
 
 StartChar: lt_XF
-Encoding: 747 -1 544
+Encoding: 747 -1 546
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32757,7 +32826,7 @@ Ligature2: "ltligs1" X F
 EndChar
 
 StartChar: lt_XN
-Encoding: 748 -1 545
+Encoding: 748 -1 547
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32812,7 +32881,7 @@ Ligature2: "ltligs1" X N
 EndChar
 
 StartChar: lt_XM
-Encoding: 749 -1 546
+Encoding: 749 -1 548
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32875,7 +32944,7 @@ Ligature2: "ltligs1" X M
 EndChar
 
 StartChar: lt_XH
-Encoding: 750 -1 547
+Encoding: 750 -1 549
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -32942,7 +33011,7 @@ Ligature2: "ltligs1" X H
 EndChar
 
 StartChar: lt_XZ
-Encoding: 751 -1 548
+Encoding: 751 -1 550
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33014,7 +33083,7 @@ Ligature2: "ltligs1" X Z
 EndChar
 
 StartChar: lt_XY
-Encoding: 752 -1 549
+Encoding: 752 -1 551
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33077,7 +33146,7 @@ Ligature2: "ltligs1" X Y
 EndChar
 
 StartChar: lt_XC
-Encoding: 753 -1 550
+Encoding: 753 -1 552
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33133,7 +33202,7 @@ Ligature2: "ltligs1" X C
 EndChar
 
 StartChar: lt_XX
-Encoding: 754 -1 551
+Encoding: 754 -1 553
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33193,7 +33262,7 @@ Ligature2: "ltligs1" X X
 EndChar
 
 StartChar: lt_XL
-Encoding: 755 -1 552
+Encoding: 755 -1 554
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33253,7 +33322,7 @@ Ligature2: "ltligs1" X L
 EndChar
 
 StartChar: lt_XW
-Encoding: 756 -1 553
+Encoding: 756 -1 555
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33347,7 +33416,7 @@ Ligature2: "ltligs1" X W
 EndChar
 
 StartChar: lt_XG
-Encoding: 757 -1 554
+Encoding: 757 -1 556
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33429,7 +33498,7 @@ Ligature2: "ltligs1" X G
 EndChar
 
 StartChar: lt_XQ
-Encoding: 758 -1 555
+Encoding: 758 -1 557
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33487,7 +33556,7 @@ Ligature2: "ltligs1" X Q
 EndChar
 
 StartChar: lt_XD
-Encoding: 759 -1 556
+Encoding: 759 -1 558
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33556,7 +33625,7 @@ Ligature2: "ltligs1" X D
 EndChar
 
 StartChar: lt_XB
-Encoding: 760 -1 557
+Encoding: 760 -1 559
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33654,7 +33723,7 @@ Ligature2: "ltligs1" X B
 EndChar
 
 StartChar: lt_XA
-Encoding: 761 -1 558
+Encoding: 761 -1 560
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33727,7 +33796,7 @@ Ligature2: "ltligs1" X A
 EndChar
 
 StartChar: lt_XI
-Encoding: 762 -1 559
+Encoding: 762 -1 561
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33808,7 +33877,7 @@ Ligature2: "ltligs1" X I
 EndChar
 
 StartChar: lt_XE
-Encoding: 763 -1 560
+Encoding: 763 -1 562
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33905,7 +33974,7 @@ Ligature2: "ltligs1" X E
 EndChar
 
 StartChar: lt_XU
-Encoding: 764 -1 561
+Encoding: 764 -1 563
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -33981,7 +34050,7 @@ Ligature2: "ltligs1" X U
 EndChar
 
 StartChar: lt_XR
-Encoding: 765 -1 562
+Encoding: 765 -1 564
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34057,7 +34126,7 @@ Ligature2: "ltligs1" X R
 EndChar
 
 StartChar: lt_XO
-Encoding: 766 -1 563
+Encoding: 766 -1 565
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34125,7 +34194,7 @@ Ligature2: "ltligs1" X O
 EndChar
 
 StartChar: lt_XV
-Encoding: 767 -1 564
+Encoding: 767 -1 566
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34175,7 +34244,7 @@ Ligature2: "ltligs1" X V
 EndChar
 
 StartChar: lt_LP
-Encoding: 768 -1 565
+Encoding: 768 -1 567
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34226,7 +34295,7 @@ Ligature2: "ltligs1" L P
 EndChar
 
 StartChar: lt_LT
-Encoding: 769 -1 566
+Encoding: 769 -1 568
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34311,7 +34380,7 @@ Ligature2: "ltligs1" L T
 EndChar
 
 StartChar: lt_LK
-Encoding: 770 -1 567
+Encoding: 770 -1 569
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34382,7 +34451,7 @@ Ligature2: "ltligs1" L K
 EndChar
 
 StartChar: lt_LS
-Encoding: 771 -1 568
+Encoding: 771 -1 570
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34449,7 +34518,7 @@ Ligature2: "ltligs1" L S
 EndChar
 
 StartChar: lt_LF
-Encoding: 772 -1 569
+Encoding: 772 -1 571
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34530,7 +34599,7 @@ Ligature2: "ltligs1" L F
 EndChar
 
 StartChar: lt_LN
-Encoding: 773 -1 570
+Encoding: 773 -1 572
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34604,7 +34673,7 @@ Ligature2: "ltligs1" L N
 EndChar
 
 StartChar: lt_LM
-Encoding: 774 -1 571
+Encoding: 774 -1 573
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34670,7 +34739,7 @@ Ligature2: "ltligs1" L M
 EndChar
 
 StartChar: lt_LH
-Encoding: 775 -1 572
+Encoding: 775 -1 574
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34758,7 +34827,7 @@ Ligature2: "ltligs1" L H
 EndChar
 
 StartChar: lt_LZ
-Encoding: 776 -1 573
+Encoding: 776 -1 575
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34828,7 +34897,7 @@ Ligature2: "ltligs1" L Z
 EndChar
 
 StartChar: lt_LY
-Encoding: 777 -1 574
+Encoding: 777 -1 576
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34914,7 +34983,7 @@ Ligature2: "ltligs1" L Y
 EndChar
 
 StartChar: lt_LC
-Encoding: 778 -1 575
+Encoding: 778 -1 577
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -34978,7 +35047,7 @@ Ligature2: "ltligs1" L C
 EndChar
 
 StartChar: lt_LX
-Encoding: 779 -1 576
+Encoding: 779 -1 578
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35045,7 +35114,7 @@ Ligature2: "ltligs1" L X
 EndChar
 
 StartChar: lt_LL
-Encoding: 780 -1 577
+Encoding: 780 -1 579
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35094,7 +35163,7 @@ Ligature2: "ltligs1" L L
 EndChar
 
 StartChar: lt_LW
-Encoding: 781 -1 578
+Encoding: 781 -1 580
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35168,7 +35237,7 @@ Ligature2: "ltligs1" L W
 EndChar
 
 StartChar: lt_LG
-Encoding: 782 -1 579
+Encoding: 782 -1 581
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35258,7 +35327,7 @@ Ligature2: "ltligs1" L G
 EndChar
 
 StartChar: lt_LQ
-Encoding: 783 -1 580
+Encoding: 783 -1 582
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35336,7 +35405,7 @@ Ligature2: "ltligs1" L Q
 EndChar
 
 StartChar: lt_LD
-Encoding: 784 -1 581
+Encoding: 784 -1 583
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35420,7 +35489,7 @@ Ligature2: "ltligs1" L D
 EndChar
 
 StartChar: lt_LB
-Encoding: 785 -1 582
+Encoding: 785 -1 584
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35500,7 +35569,7 @@ Ligature2: "ltligs1" L B
 EndChar
 
 StartChar: lt_LA
-Encoding: 786 -1 583
+Encoding: 786 -1 585
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35572,7 +35641,7 @@ Ligature2: "ltligs1" L A
 EndChar
 
 StartChar: lt_LI
-Encoding: 787 -1 584
+Encoding: 787 -1 586
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35661,7 +35730,7 @@ Ligature2: "ltligs1" L I
 EndChar
 
 StartChar: lt_LE
-Encoding: 788 -1 585
+Encoding: 788 -1 587
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35741,7 +35810,7 @@ Ligature2: "ltligs1" L E
 EndChar
 
 StartChar: lt_LU
-Encoding: 789 -1 586
+Encoding: 789 -1 588
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35814,7 +35883,7 @@ Ligature2: "ltligs1" L U
 EndChar
 
 StartChar: lt_LR
-Encoding: 790 -1 587
+Encoding: 790 -1 589
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35881,7 +35950,7 @@ Ligature2: "ltligs1" L R
 EndChar
 
 StartChar: lt_LO
-Encoding: 791 -1 588
+Encoding: 791 -1 590
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -35941,7 +36010,7 @@ Ligature2: "ltligs1" L O
 EndChar
 
 StartChar: lt_LV
-Encoding: 792 -1 589
+Encoding: 792 -1 591
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -36007,7 +36076,7 @@ Ligature2: "ltligs1" L V
 EndChar
 
 StartChar: lt_WW
-Encoding: 793 -1 590
+Encoding: 793 -1 592
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -36087,7 +36156,7 @@ Ligature2: "ltligs1" W W
 EndChar
 
 StartChar: lt_GP
-Encoding: 794 -1 591
+Encoding: 794 -1 593
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -36161,7 +36230,7 @@ Ligature2: "ltligs1" G P
 EndChar
 
 StartChar: lt_GT
-Encoding: 795 -1 592
+Encoding: 795 -1 594
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -36263,7 +36332,7 @@ Ligature2: "ltligs1" G T
 EndChar
 
 StartChar: lt_GK
-Encoding: 796 -1 593
+Encoding: 796 -1 595
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -36347,7 +36416,7 @@ Ligature2: "ltligs1" G K
 EndChar
 
 StartChar: lt_GS
-Encoding: 797 -1 594
+Encoding: 797 -1 596
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -36426,7 +36495,7 @@ Ligature2: "ltligs1" G S
 EndChar
 
 StartChar: lt_GF
-Encoding: 798 -1 595
+Encoding: 798 -1 597
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -36524,7 +36593,7 @@ Ligature2: "ltligs1" G F
 EndChar
 
 StartChar: lt_GN
-Encoding: 799 -1 596
+Encoding: 799 -1 598
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -36613,7 +36682,7 @@ Ligature2: "ltligs1" G N
 EndChar
 
 StartChar: lt_GM
-Encoding: 800 -1 597
+Encoding: 800 -1 599
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -36695,7 +36764,7 @@ Ligature2: "ltligs1" G M
 EndChar
 
 StartChar: lt_GH
-Encoding: 801 -1 598
+Encoding: 801 -1 600
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -36800,7 +36869,7 @@ Ligature2: "ltligs1" G H
 EndChar
 
 StartChar: lt_GZ
-Encoding: 802 -1 599
+Encoding: 802 -1 601
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -36887,7 +36956,7 @@ Ligature2: "ltligs1" G Z
 EndChar
 
 StartChar: lt_GY
-Encoding: 803 -1 600
+Encoding: 803 -1 602
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -36979,7 +37048,7 @@ Ligature2: "ltligs1" G Y
 EndChar
 
 StartChar: lt_GC
-Encoding: 804 -1 601
+Encoding: 804 -1 603
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -37064,7 +37133,7 @@ Ligature2: "ltligs1" G C
 EndChar
 
 StartChar: lt_GX
-Encoding: 805 -1 602
+Encoding: 805 -1 604
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -37153,7 +37222,7 @@ Ligature2: "ltligs1" G X
 EndChar
 
 StartChar: lt_GL
-Encoding: 806 -1 603
+Encoding: 806 -1 605
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -37250,7 +37319,7 @@ Ligature2: "ltligs1" G L
 EndChar
 
 StartChar: lt_GW
-Encoding: 807 -1 604
+Encoding: 807 -1 606
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -37379,7 +37448,7 @@ Ligature2: "ltligs1" G W
 EndChar
 
 StartChar: lt_GG
-Encoding: 808 -1 605
+Encoding: 808 -1 607
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -37443,7 +37512,7 @@ Ligature2: "ltligs1" G G
 EndChar
 
 StartChar: lt_GQ
-Encoding: 809 -1 606
+Encoding: 809 -1 608
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -37534,7 +37603,7 @@ Ligature2: "ltligs1" G Q
 EndChar
 
 StartChar: lt_GD
-Encoding: 810 -1 607
+Encoding: 810 -1 609
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -37620,7 +37689,7 @@ Ligature2: "ltligs1" G D
 EndChar
 
 StartChar: lt_GB
-Encoding: 811 -1 608
+Encoding: 811 -1 610
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -37712,7 +37781,7 @@ Ligature2: "ltligs1" G B
 EndChar
 
 StartChar: lt_GA
-Encoding: 812 -1 609
+Encoding: 812 -1 611
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -37802,7 +37871,7 @@ Ligature2: "ltligs1" G A
 EndChar
 
 StartChar: lt_GI
-Encoding: 813 -1 610
+Encoding: 813 -1 612
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -37924,7 +37993,7 @@ Ligature2: "ltligs1" G I
 EndChar
 
 StartChar: lt_GE
-Encoding: 814 -1 611
+Encoding: 814 -1 613
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -38017,7 +38086,7 @@ Ligature2: "ltligs1" G E
 EndChar
 
 StartChar: lt_GU
-Encoding: 815 -1 612
+Encoding: 815 -1 614
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -38111,7 +38180,7 @@ Ligature2: "ltligs1" G U
 EndChar
 
 StartChar: lt_GR
-Encoding: 816 -1 613
+Encoding: 816 -1 615
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -38206,7 +38275,7 @@ Ligature2: "ltligs1" G R
 EndChar
 
 StartChar: lt_GO
-Encoding: 817 -1 614
+Encoding: 817 -1 616
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -38277,7 +38346,7 @@ Ligature2: "ltligs1" G O
 EndChar
 
 StartChar: lt_GV
-Encoding: 818 -1 615
+Encoding: 818 -1 617
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -38366,7 +38435,7 @@ Ligature2: "ltligs1" G V
 EndChar
 
 StartChar: lt_QP
-Encoding: 819 -1 616
+Encoding: 819 -1 618
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -38428,7 +38497,7 @@ Ligature2: "ltligs1" Q P
 EndChar
 
 StartChar: lt_QT
-Encoding: 820 -1 617
+Encoding: 820 -1 619
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -38505,7 +38574,7 @@ Ligature2: "ltligs1" Q T
 EndChar
 
 StartChar: lt_QK
-Encoding: 821 -1 618
+Encoding: 821 -1 620
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -38585,7 +38654,7 @@ Ligature2: "ltligs1" Q K
 EndChar
 
 StartChar: lt_QS
-Encoding: 822 -1 619
+Encoding: 822 -1 621
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -38656,7 +38725,7 @@ Ligature2: "ltligs1" Q S
 EndChar
 
 StartChar: lt_QF
-Encoding: 823 -1 620
+Encoding: 823 -1 622
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -38747,7 +38816,7 @@ Ligature2: "ltligs1" Q F
 EndChar
 
 StartChar: lt_QN
-Encoding: 824 -1 621
+Encoding: 824 -1 623
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -38839,7 +38908,7 @@ Ligature2: "ltligs1" Q N
 EndChar
 
 StartChar: lt_QM
-Encoding: 825 -1 622
+Encoding: 825 -1 624
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -38912,7 +38981,7 @@ Ligature2: "ltligs1" Q M
 EndChar
 
 StartChar: lt_QH
-Encoding: 826 -1 623
+Encoding: 826 -1 625
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39007,7 +39076,7 @@ Ligature2: "ltligs1" Q H
 EndChar
 
 StartChar: lt_QZ
-Encoding: 827 -1 624
+Encoding: 827 -1 626
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39083,7 +39152,7 @@ Ligature2: "ltligs1" Q Z
 EndChar
 
 StartChar: lt_QY
-Encoding: 828 -1 625
+Encoding: 828 -1 627
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39176,7 +39245,7 @@ Ligature2: "ltligs1" Q Y
 EndChar
 
 StartChar: lt_QC
-Encoding: 829 -1 626
+Encoding: 829 -1 628
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39240,7 +39309,7 @@ Ligature2: "ltligs1" Q C
 EndChar
 
 StartChar: lt_QX
-Encoding: 830 -1 627
+Encoding: 830 -1 629
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39305,7 +39374,7 @@ Ligature2: "ltligs1" Q X
 EndChar
 
 StartChar: lt_QL
-Encoding: 831 -1 628
+Encoding: 831 -1 630
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39390,7 +39459,7 @@ Ligature2: "ltligs1" Q L
 EndChar
 
 StartChar: lt_QW
-Encoding: 832 -1 629
+Encoding: 832 -1 631
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39474,7 +39543,7 @@ Ligature2: "ltligs1" Q W
 EndChar
 
 StartChar: lt_QG
-Encoding: 833 -1 630
+Encoding: 833 -1 632
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39572,7 +39641,7 @@ Ligature2: "ltligs1" Q G
 EndChar
 
 StartChar: lt_QQ
-Encoding: 834 -1 631
+Encoding: 834 -1 633
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39624,7 +39693,7 @@ Ligature2: "ltligs1" Q Q
 EndChar
 
 StartChar: lt_QD
-Encoding: 835 -1 632
+Encoding: 835 -1 634
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39716,7 +39785,7 @@ Ligature2: "ltligs1" Q D
 EndChar
 
 StartChar: lt_QB
-Encoding: 836 -1 633
+Encoding: 836 -1 635
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39803,7 +39872,7 @@ Ligature2: "ltligs1" Q B
 EndChar
 
 StartChar: lt_QA
-Encoding: 837 -1 634
+Encoding: 837 -1 636
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39874,7 +39943,7 @@ Ligature2: "ltligs1" Q A
 EndChar
 
 StartChar: lt_QI
-Encoding: 838 -1 635
+Encoding: 838 -1 637
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -39984,7 +40053,7 @@ Ligature2: "ltligs1" Q I
 EndChar
 
 StartChar: lt_QE
-Encoding: 839 -1 636
+Encoding: 839 -1 638
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -40073,7 +40142,7 @@ Ligature2: "ltligs1" Q E
 EndChar
 
 StartChar: lt_QU
-Encoding: 840 -1 637
+Encoding: 840 -1 639
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -40165,7 +40234,7 @@ Ligature2: "ltligs1" Q U
 EndChar
 
 StartChar: lt_QR
-Encoding: 841 -1 638
+Encoding: 841 -1 640
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -40236,7 +40305,7 @@ Ligature2: "ltligs1" Q R
 EndChar
 
 StartChar: lt_QO
-Encoding: 842 -1 639
+Encoding: 842 -1 641
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -40295,7 +40364,7 @@ Ligature2: "ltligs1" Q O
 EndChar
 
 StartChar: lt_QV
-Encoding: 843 -1 640
+Encoding: 843 -1 642
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -40362,7 +40431,7 @@ Ligature2: "ltligs1" Q V
 EndChar
 
 StartChar: lt_DP
-Encoding: 844 -1 641
+Encoding: 844 -1 643
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -40449,7 +40518,7 @@ Ligature2: "ltligs1" D P
 EndChar
 
 StartChar: lt_DT
-Encoding: 845 -1 642
+Encoding: 845 -1 644
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -40531,7 +40600,7 @@ Ligature2: "ltligs1" D T
 EndChar
 
 StartChar: lt_DS
-Encoding: 846 -1 643
+Encoding: 846 -1 645
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -40608,7 +40677,7 @@ Ligature2: "ltligs1" D S
 EndChar
 
 StartChar: lt_DF
-Encoding: 847 -1 644
+Encoding: 847 -1 646
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -40718,7 +40787,7 @@ Ligature2: "ltligs1" D F
 EndChar
 
 StartChar: lt_DM
-Encoding: 848 -1 645
+Encoding: 848 -1 647
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -40798,7 +40867,7 @@ Ligature2: "ltligs1" D M
 EndChar
 
 StartChar: lt_DH
-Encoding: 849 -1 646
+Encoding: 849 -1 648
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -40882,7 +40951,7 @@ Ligature2: "ltligs1" D H
 EndChar
 
 StartChar: lt_DY
-Encoding: 850 -1 647
+Encoding: 850 -1 649
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -40964,7 +41033,7 @@ Ligature2: "ltligs1" D Y
 EndChar
 
 StartChar: lt_DC
-Encoding: 851 -1 648
+Encoding: 851 -1 650
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -41037,7 +41106,7 @@ Ligature2: "ltligs1" D C
 EndChar
 
 StartChar: lt_DX
-Encoding: 852 -1 649
+Encoding: 852 -1 651
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -41122,7 +41191,7 @@ Ligature2: "ltligs1" D X
 EndChar
 
 StartChar: lt_DL
-Encoding: 853 -1 650
+Encoding: 853 -1 652
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -41199,7 +41268,7 @@ Ligature2: "ltligs1" D L
 EndChar
 
 StartChar: lt_DW
-Encoding: 854 -1 651
+Encoding: 854 -1 653
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -41328,7 +41397,7 @@ Ligature2: "ltligs1" D W
 EndChar
 
 StartChar: lt_DQ
-Encoding: 855 -1 652
+Encoding: 855 -1 654
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -41413,7 +41482,7 @@ Ligature2: "ltligs1" D Q
 EndChar
 
 StartChar: lt_DD
-Encoding: 856 -1 653
+Encoding: 856 -1 655
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -41462,7 +41531,7 @@ Ligature2: "ltligs1" D D
 EndChar
 
 StartChar: lt_DB
-Encoding: 857 -1 654
+Encoding: 857 -1 656
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -41562,7 +41631,7 @@ Ligature2: "ltligs1" D B
 EndChar
 
 StartChar: lt_DI
-Encoding: 858 -1 655
+Encoding: 858 -1 657
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -41685,7 +41754,7 @@ Ligature2: "ltligs1" D I
 EndChar
 
 StartChar: lt_DE
-Encoding: 859 -1 656
+Encoding: 859 -1 658
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -41786,7 +41855,7 @@ Ligature2: "ltligs1" D E
 EndChar
 
 StartChar: lt_DR
-Encoding: 860 -1 657
+Encoding: 860 -1 659
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -41872,7 +41941,7 @@ Ligature2: "ltligs1" D R
 EndChar
 
 StartChar: lt_DO
-Encoding: 861 -1 658
+Encoding: 861 -1 660
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -41952,7 +42021,7 @@ Ligature2: "ltligs1" D O
 EndChar
 
 StartChar: lt_DV
-Encoding: 862 -1 659
+Encoding: 862 -1 661
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42021,7 +42090,7 @@ Ligature2: "ltligs1" D V
 EndChar
 
 StartChar: lt_BP
-Encoding: 863 -1 660
+Encoding: 863 -1 662
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42111,7 +42180,7 @@ Ligature2: "ltligs1" B P
 EndChar
 
 StartChar: lt_BT
-Encoding: 864 -1 661
+Encoding: 864 -1 663
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42201,7 +42270,7 @@ Ligature2: "ltligs1" B T
 EndChar
 
 StartChar: lt_BK
-Encoding: 865 -1 662
+Encoding: 865 -1 664
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42288,7 +42357,7 @@ Ligature2: "ltligs1" B K
 EndChar
 
 StartChar: lt_BS
-Encoding: 866 -1 663
+Encoding: 866 -1 665
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42365,7 +42434,7 @@ Ligature2: "ltligs1" B S
 EndChar
 
 StartChar: lt_BF
-Encoding: 867 -1 664
+Encoding: 867 -1 666
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42490,7 +42559,7 @@ Ligature2: "ltligs1" B F
 EndChar
 
 StartChar: lt_BN
-Encoding: 868 -1 665
+Encoding: 868 -1 667
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42556,7 +42625,7 @@ Ligature2: "ltligs1" B N
 EndChar
 
 StartChar: lt_BM
-Encoding: 869 -1 666
+Encoding: 869 -1 668
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42632,7 +42701,7 @@ Ligature2: "ltligs1" B M
 EndChar
 
 StartChar: lt_BH
-Encoding: 870 -1 667
+Encoding: 870 -1 669
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42709,7 +42778,7 @@ Ligature2: "ltligs1" B H
 EndChar
 
 StartChar: lt_BZ
-Encoding: 871 -1 668
+Encoding: 871 -1 670
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42792,7 +42861,7 @@ Ligature2: "ltligs1" B Z
 EndChar
 
 StartChar: lt_BY
-Encoding: 872 -1 669
+Encoding: 872 -1 671
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42860,7 +42929,7 @@ Ligature2: "ltligs1" B Y
 EndChar
 
 StartChar: lt_BC
-Encoding: 873 -1 670
+Encoding: 873 -1 672
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42916,7 +42985,7 @@ Ligature2: "ltligs1" B C
 EndChar
 
 StartChar: lt_BX
-Encoding: 874 -1 671
+Encoding: 874 -1 673
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -42996,7 +43065,7 @@ Ligature2: "ltligs1" B X
 EndChar
 
 StartChar: lt_BL
-Encoding: 875 -1 672
+Encoding: 875 -1 674
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -43069,7 +43138,7 @@ Ligature2: "ltligs1" B L
 EndChar
 
 StartChar: lt_BW
-Encoding: 876 -1 673
+Encoding: 876 -1 675
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -43173,7 +43242,7 @@ Ligature2: "ltligs1" B W
 EndChar
 
 StartChar: lt_BG
-Encoding: 877 -1 674
+Encoding: 877 -1 676
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -43258,7 +43327,7 @@ Ligature2: "ltligs1" B G
 EndChar
 
 StartChar: lt_BQ
-Encoding: 878 -1 675
+Encoding: 878 -1 677
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -43338,7 +43407,7 @@ Ligature2: "ltligs1" B Q
 EndChar
 
 StartChar: lt_BD
-Encoding: 879 -1 676
+Encoding: 879 -1 678
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -43417,7 +43486,7 @@ Ligature2: "ltligs1" B D
 EndChar
 
 StartChar: lt_BB
-Encoding: 880 -1 677
+Encoding: 880 -1 679
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -43484,7 +43553,7 @@ Ligature2: "ltligs1" B B
 EndChar
 
 StartChar: lt_BA
-Encoding: 881 -1 678
+Encoding: 881 -1 680
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -43568,7 +43637,7 @@ Ligature2: "ltligs1" B A
 EndChar
 
 StartChar: lt_BI
-Encoding: 882 -1 679
+Encoding: 882 -1 681
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -43667,7 +43736,7 @@ Ligature2: "ltligs1" B I
 EndChar
 
 StartChar: lt_BE
-Encoding: 883 -1 680
+Encoding: 883 -1 682
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -43764,7 +43833,7 @@ Ligature2: "ltligs1" B E
 EndChar
 
 StartChar: lt_BU
-Encoding: 884 -1 681
+Encoding: 884 -1 683
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -43852,7 +43921,7 @@ Ligature2: "ltligs1" B U
 EndChar
 
 StartChar: lt_BR
-Encoding: 885 -1 682
+Encoding: 885 -1 684
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -43940,7 +44009,7 @@ Ligature2: "ltligs1" B R
 EndChar
 
 StartChar: lt_BO
-Encoding: 886 -1 683
+Encoding: 886 -1 685
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44008,7 +44077,7 @@ Ligature2: "ltligs1" B O
 EndChar
 
 StartChar: lt_BV
-Encoding: 887 -1 684
+Encoding: 887 -1 686
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44068,7 +44137,7 @@ Ligature2: "ltligs1" B V
 EndChar
 
 StartChar: lt_AP
-Encoding: 888 -1 685
+Encoding: 888 -1 687
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44142,7 +44211,7 @@ Ligature2: "ltligs1" A P
 EndChar
 
 StartChar: lt_AT
-Encoding: 889 -1 686
+Encoding: 889 -1 688
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44232,7 +44301,7 @@ Ligature2: "ltligs1" A T
 EndChar
 
 StartChar: lt_AK
-Encoding: 890 -1 687
+Encoding: 890 -1 689
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44313,7 +44382,7 @@ Ligature2: "ltligs1" A K
 EndChar
 
 StartChar: lt_AS
-Encoding: 891 -1 688
+Encoding: 891 -1 690
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44388,7 +44457,7 @@ Ligature2: "ltligs1" A S
 EndChar
 
 StartChar: lt_AF
-Encoding: 892 -1 689
+Encoding: 892 -1 691
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44501,7 +44570,7 @@ Ligature2: "ltligs1" A F
 EndChar
 
 StartChar: lt_AN
-Encoding: 893 -1 690
+Encoding: 893 -1 692
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44562,7 +44631,7 @@ Ligature2: "ltligs1" A N
 EndChar
 
 StartChar: lt_AM
-Encoding: 894 -1 691
+Encoding: 894 -1 693
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44631,7 +44700,7 @@ Ligature2: "ltligs1" A M
 EndChar
 
 StartChar: lt_AH
-Encoding: 895 -1 692
+Encoding: 895 -1 694
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44712,7 +44781,7 @@ Ligature2: "ltligs1" A H
 EndChar
 
 StartChar: lt_AZ
-Encoding: 896 -1 693
+Encoding: 896 -1 695
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44790,7 +44859,7 @@ Ligature2: "ltligs1" A Z
 EndChar
 
 StartChar: lt_AY
-Encoding: 897 -1 694
+Encoding: 897 -1 696
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44857,7 +44926,7 @@ Ligature2: "ltligs1" A Y
 EndChar
 
 StartChar: lt_AC
-Encoding: 898 -1 695
+Encoding: 898 -1 697
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44913,7 +44982,7 @@ Ligature2: "ltligs1" A C
 EndChar
 
 StartChar: lt_AX
-Encoding: 899 -1 696
+Encoding: 899 -1 698
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -44996,7 +45065,7 @@ Ligature2: "ltligs1" A X
 EndChar
 
 StartChar: lt_AL
-Encoding: 900 -1 697
+Encoding: 900 -1 699
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -45061,7 +45130,7 @@ Ligature2: "ltligs1" A L
 EndChar
 
 StartChar: lt_AW
-Encoding: 901 -1 698
+Encoding: 901 -1 700
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -45157,7 +45226,7 @@ Ligature2: "ltligs1" A W
 EndChar
 
 StartChar: lt_AG
-Encoding: 902 -1 699
+Encoding: 902 -1 701
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -45240,7 +45309,7 @@ Ligature2: "ltligs1" A G
 EndChar
 
 StartChar: lt_AQ
-Encoding: 903 -1 700
+Encoding: 903 -1 702
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -45304,7 +45373,7 @@ Ligature2: "ltligs1" A Q
 EndChar
 
 StartChar: lt_AD
-Encoding: 904 -1 701
+Encoding: 904 -1 703
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -45378,7 +45447,7 @@ Ligature2: "ltligs1" A D
 EndChar
 
 StartChar: lt_AB
-Encoding: 905 -1 702
+Encoding: 905 -1 704
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -45482,7 +45551,7 @@ Ligature2: "ltligs1" A B
 EndChar
 
 StartChar: lt_AA
-Encoding: 906 -1 703
+Encoding: 906 -1 705
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -45537,7 +45606,7 @@ Ligature2: "ltligs1" A A
 EndChar
 
 StartChar: lt_AI
-Encoding: 907 -1 704
+Encoding: 907 -1 706
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -45631,7 +45700,7 @@ Ligature2: "ltligs1" A I
 EndChar
 
 StartChar: lt_AE
-Encoding: 908 -1 705
+Encoding: 908 -1 707
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -45731,7 +45800,7 @@ Ligature2: "ltligs1" A E
 EndChar
 
 StartChar: lt_AU
-Encoding: 909 -1 706
+Encoding: 909 -1 708
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -45813,7 +45882,7 @@ Ligature2: "ltligs1" A U
 EndChar
 
 StartChar: lt_AR
-Encoding: 910 -1 707
+Encoding: 910 -1 709
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -45895,7 +45964,7 @@ Ligature2: "ltligs1" A R
 EndChar
 
 StartChar: lt_AO
-Encoding: 911 -1 708
+Encoding: 911 -1 710
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -45962,7 +46031,7 @@ Ligature2: "ltligs1" A O
 EndChar
 
 StartChar: lt_AV
-Encoding: 912 -1 709
+Encoding: 912 -1 711
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -46018,7 +46087,7 @@ Ligature2: "ltligs1" A V
 EndChar
 
 StartChar: lt_IP
-Encoding: 913 -1 710
+Encoding: 913 -1 712
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -46097,7 +46166,7 @@ Ligature2: "ltligs1" I P
 EndChar
 
 StartChar: lt_IT
-Encoding: 914 -1 711
+Encoding: 914 -1 713
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -46216,7 +46285,7 @@ Ligature2: "ltligs1" I T
 EndChar
 
 StartChar: lt_IK
-Encoding: 915 -1 712
+Encoding: 915 -1 714
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -46313,7 +46382,7 @@ Ligature2: "ltligs1" I K
 EndChar
 
 StartChar: lt_IS
-Encoding: 916 -1 713
+Encoding: 916 -1 715
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -46406,7 +46475,7 @@ Ligature2: "ltligs1" I S
 EndChar
 
 StartChar: lt_IF
-Encoding: 917 -1 714
+Encoding: 917 -1 716
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -46530,7 +46599,7 @@ Ligature2: "ltligs1" I F
 EndChar
 
 StartChar: lt_IN
-Encoding: 918 -1 715
+Encoding: 918 -1 717
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -46646,7 +46715,7 @@ Ligature2: "ltligs1" I N
 EndChar
 
 StartChar: lt_IM
-Encoding: 919 -1 716
+Encoding: 919 -1 718
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -46735,7 +46804,7 @@ Ligature2: "ltligs1" I M
 EndChar
 
 StartChar: lt_IH
-Encoding: 920 -1 717
+Encoding: 920 -1 719
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -46857,7 +46926,7 @@ Ligature2: "ltligs1" I H
 EndChar
 
 StartChar: lt_IZ
-Encoding: 921 -1 718
+Encoding: 921 -1 720
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -46949,7 +47018,7 @@ Ligature2: "ltligs1" I Z
 EndChar
 
 StartChar: lt_IY
-Encoding: 922 -1 719
+Encoding: 922 -1 721
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -47061,7 +47130,7 @@ Ligature2: "ltligs1" I Y
 EndChar
 
 StartChar: lt_IC
-Encoding: 923 -1 720
+Encoding: 923 -1 722
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -47156,7 +47225,7 @@ Ligature2: "ltligs1" I C
 EndChar
 
 StartChar: lt_IX
-Encoding: 924 -1 721
+Encoding: 924 -1 723
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -47244,7 +47313,7 @@ Ligature2: "ltligs1" I X
 EndChar
 
 StartChar: lt_IL
-Encoding: 925 -1 722
+Encoding: 925 -1 724
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -47340,7 +47409,7 @@ Ligature2: "ltligs1" I L
 EndChar
 
 StartChar: lt_IW
-Encoding: 926 -1 723
+Encoding: 926 -1 725
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -47441,7 +47510,7 @@ Ligature2: "ltligs1" I W
 EndChar
 
 StartChar: lt_IG
-Encoding: 927 -1 724
+Encoding: 927 -1 726
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -47570,7 +47639,7 @@ Ligature2: "ltligs1" I G
 EndChar
 
 StartChar: lt_IQ
-Encoding: 928 -1 725
+Encoding: 928 -1 727
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -47687,7 +47756,7 @@ Ligature2: "ltligs1" I Q
 EndChar
 
 StartChar: lt_ID
-Encoding: 929 -1 726
+Encoding: 929 -1 728
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -47817,7 +47886,7 @@ Ligature2: "ltligs1" I D
 EndChar
 
 StartChar: lt_IB
-Encoding: 930 -1 727
+Encoding: 930 -1 729
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -47923,7 +47992,7 @@ Ligature2: "ltligs1" I B
 EndChar
 
 StartChar: lt_IA
-Encoding: 931 -1 728
+Encoding: 931 -1 730
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -48024,7 +48093,7 @@ Ligature2: "ltligs1" I A
 EndChar
 
 StartChar: lt_II
-Encoding: 932 -1 729
+Encoding: 932 -1 731
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -48093,7 +48162,7 @@ Ligature2: "ltligs1" I I
 EndChar
 
 StartChar: lt_IE
-Encoding: 933 -1 730
+Encoding: 933 -1 732
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -48200,7 +48269,7 @@ Ligature2: "ltligs1" I E
 EndChar
 
 StartChar: lt_IU
-Encoding: 934 -1 731
+Encoding: 934 -1 733
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -48315,7 +48384,7 @@ Ligature2: "ltligs1" I U
 EndChar
 
 StartChar: lt_IR
-Encoding: 935 -1 732
+Encoding: 935 -1 734
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -48408,7 +48477,7 @@ Ligature2: "ltligs1" I R
 EndChar
 
 StartChar: lt_IO
-Encoding: 936 -1 733
+Encoding: 936 -1 735
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -48484,7 +48553,7 @@ Ligature2: "ltligs1" I O
 EndChar
 
 StartChar: lt_IV
-Encoding: 937 -1 734
+Encoding: 937 -1 736
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -48569,7 +48638,7 @@ Ligature2: "ltligs1" I V
 EndChar
 
 StartChar: lt_EP
-Encoding: 938 -1 735
+Encoding: 938 -1 737
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -48655,7 +48724,7 @@ Ligature2: "ltligs1" E P
 EndChar
 
 StartChar: lt_ET
-Encoding: 939 -1 736
+Encoding: 939 -1 738
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -48749,7 +48818,7 @@ Ligature2: "ltligs1" E T
 EndChar
 
 StartChar: lt_EK
-Encoding: 940 -1 737
+Encoding: 940 -1 739
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -48837,7 +48906,7 @@ Ligature2: "ltligs1" E K
 EndChar
 
 StartChar: lt_ES
-Encoding: 941 -1 738
+Encoding: 941 -1 740
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -48918,7 +48987,7 @@ Ligature2: "ltligs1" E S
 EndChar
 
 StartChar: lt_EF
-Encoding: 942 -1 739
+Encoding: 942 -1 741
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49042,7 +49111,7 @@ Ligature2: "ltligs1" E F
 EndChar
 
 StartChar: lt_EN
-Encoding: 943 -1 740
+Encoding: 943 -1 742
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49111,7 +49180,7 @@ Ligature2: "ltligs1" E N
 EndChar
 
 StartChar: lt_EM
-Encoding: 944 -1 741
+Encoding: 944 -1 743
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49188,7 +49257,7 @@ Ligature2: "ltligs1" E M
 EndChar
 
 StartChar: lt_EH
-Encoding: 945 -1 742
+Encoding: 945 -1 744
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49271,7 +49340,7 @@ Ligature2: "ltligs1" E H
 EndChar
 
 StartChar: lt_EZ
-Encoding: 946 -1 743
+Encoding: 946 -1 745
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49357,7 +49426,7 @@ Ligature2: "ltligs1" E Z
 EndChar
 
 StartChar: lt_EY
-Encoding: 947 -1 744
+Encoding: 947 -1 746
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49429,7 +49498,7 @@ Ligature2: "ltligs1" E Y
 EndChar
 
 StartChar: lt_EC
-Encoding: 948 -1 745
+Encoding: 948 -1 747
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49489,7 +49558,7 @@ Ligature2: "ltligs1" E C
 EndChar
 
 StartChar: lt_EX
-Encoding: 949 -1 746
+Encoding: 949 -1 748
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49571,7 +49640,7 @@ Ligature2: "ltligs1" E X
 EndChar
 
 StartChar: lt_EL
-Encoding: 950 -1 747
+Encoding: 950 -1 749
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49644,7 +49713,7 @@ Ligature2: "ltligs1" E L
 EndChar
 
 StartChar: lt_EW
-Encoding: 951 -1 748
+Encoding: 951 -1 750
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49744,7 +49813,7 @@ Ligature2: "ltligs1" E W
 EndChar
 
 StartChar: lt_EG
-Encoding: 952 -1 749
+Encoding: 952 -1 751
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49830,7 +49899,7 @@ Ligature2: "ltligs1" E G
 EndChar
 
 StartChar: lt_EQ
-Encoding: 953 -1 750
+Encoding: 953 -1 752
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49912,7 +49981,7 @@ Ligature2: "ltligs1" E Q
 EndChar
 
 StartChar: lt_ED
-Encoding: 954 -1 751
+Encoding: 954 -1 753
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -49995,7 +50064,7 @@ Ligature2: "ltligs1" E D
 EndChar
 
 StartChar: lt_EB
-Encoding: 955 -1 752
+Encoding: 955 -1 754
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -50097,7 +50166,7 @@ Ligature2: "ltligs1" E B
 EndChar
 
 StartChar: lt_EA
-Encoding: 956 -1 753
+Encoding: 956 -1 755
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -50182,7 +50251,7 @@ Ligature2: "ltligs1" E A
 EndChar
 
 StartChar: lt_EI
-Encoding: 957 -1 754
+Encoding: 957 -1 756
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -50282,7 +50351,7 @@ Ligature2: "ltligs1" E I
 EndChar
 
 StartChar: lt_EE
-Encoding: 958 -1 755
+Encoding: 958 -1 757
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -50354,7 +50423,7 @@ Ligature2: "ltligs1" E E
 EndChar
 
 StartChar: lt_EU
-Encoding: 959 -1 756
+Encoding: 959 -1 758
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -50444,7 +50513,7 @@ Ligature2: "ltligs1" E U
 EndChar
 
 StartChar: lt_ER
-Encoding: 960 -1 757
+Encoding: 960 -1 759
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -50534,7 +50603,7 @@ Ligature2: "ltligs1" E R
 EndChar
 
 StartChar: lt_EO
-Encoding: 961 -1 758
+Encoding: 961 -1 760
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -50606,7 +50675,7 @@ Ligature2: "ltligs1" E O
 EndChar
 
 StartChar: lt_EV
-Encoding: 962 -1 759
+Encoding: 962 -1 761
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -50670,7 +50739,7 @@ Ligature2: "ltligs1" E V
 EndChar
 
 StartChar: lt_UP
-Encoding: 963 -1 760
+Encoding: 963 -1 762
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -50731,7 +50800,7 @@ Ligature2: "ltligs1" U P
 EndChar
 
 StartChar: lt_UT
-Encoding: 964 -1 761
+Encoding: 964 -1 763
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -50828,7 +50897,7 @@ Ligature2: "ltligs1" U T
 EndChar
 
 StartChar: lt_UK
-Encoding: 965 -1 762
+Encoding: 965 -1 764
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -50915,7 +50984,7 @@ Ligature2: "ltligs1" U K
 EndChar
 
 StartChar: lt_US
-Encoding: 966 -1 763
+Encoding: 966 -1 765
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -50993,7 +51062,7 @@ Ligature2: "ltligs1" U S
 EndChar
 
 StartChar: lt_UF
-Encoding: 967 -1 764
+Encoding: 967 -1 766
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -51092,7 +51161,7 @@ Ligature2: "ltligs1" U F
 EndChar
 
 StartChar: lt_UN
-Encoding: 968 -1 765
+Encoding: 968 -1 767
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -51180,7 +51249,7 @@ Ligature2: "ltligs1" U N
 EndChar
 
 StartChar: lt_UM
-Encoding: 969 -1 766
+Encoding: 969 -1 768
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -51255,7 +51324,7 @@ Ligature2: "ltligs1" U M
 EndChar
 
 StartChar: lt_UH
-Encoding: 970 -1 767
+Encoding: 970 -1 769
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -51349,7 +51418,7 @@ Ligature2: "ltligs1" U H
 EndChar
 
 StartChar: lt_UZ
-Encoding: 971 -1 768
+Encoding: 971 -1 770
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -51428,7 +51497,7 @@ Ligature2: "ltligs1" U Z
 EndChar
 
 StartChar: lt_UY
-Encoding: 972 -1 769
+Encoding: 972 -1 771
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -51523,7 +51592,7 @@ Ligature2: "ltligs1" U Y
 EndChar
 
 StartChar: lt_UC
-Encoding: 973 -1 770
+Encoding: 973 -1 772
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -51604,7 +51673,7 @@ Ligature2: "ltligs1" U C
 EndChar
 
 StartChar: lt_UX
-Encoding: 974 -1 771
+Encoding: 974 -1 773
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -51687,7 +51756,7 @@ Ligature2: "ltligs1" U X
 EndChar
 
 StartChar: lt_UL
-Encoding: 975 -1 772
+Encoding: 975 -1 774
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -51767,7 +51836,7 @@ Ligature2: "ltligs1" U L
 EndChar
 
 StartChar: lt_UW
-Encoding: 976 -1 773
+Encoding: 976 -1 775
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -51880,7 +51949,7 @@ Ligature2: "ltligs1" U W
 EndChar
 
 StartChar: lt_UG
-Encoding: 977 -1 774
+Encoding: 977 -1 776
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -51981,7 +52050,7 @@ Ligature2: "ltligs1" U G
 EndChar
 
 StartChar: lt_UQ
-Encoding: 978 -1 775
+Encoding: 978 -1 777
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -52080,7 +52149,7 @@ Ligature2: "ltligs1" U Q
 EndChar
 
 StartChar: lt_UD
-Encoding: 979 -1 776
+Encoding: 979 -1 778
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -52175,7 +52244,7 @@ Ligature2: "ltligs1" U D
 EndChar
 
 StartChar: lt_UB
-Encoding: 980 -1 777
+Encoding: 980 -1 779
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -52270,7 +52339,7 @@ Ligature2: "ltligs1" U B
 EndChar
 
 StartChar: lt_UA
-Encoding: 981 -1 778
+Encoding: 981 -1 780
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -52359,7 +52428,7 @@ Ligature2: "ltligs1" U A
 EndChar
 
 StartChar: lt_UI
-Encoding: 982 -1 779
+Encoding: 982 -1 781
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -52481,7 +52550,7 @@ Ligature2: "ltligs1" U I
 EndChar
 
 StartChar: lt_UE
-Encoding: 983 -1 780
+Encoding: 983 -1 782
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -52578,7 +52647,7 @@ Ligature2: "ltligs1" U E
 EndChar
 
 StartChar: lt_UU
-Encoding: 984 -1 781
+Encoding: 984 -1 783
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -52634,7 +52703,7 @@ Ligature2: "ltligs1" U U
 EndChar
 
 StartChar: lt_UR
-Encoding: 985 -1 782
+Encoding: 985 -1 784
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -52717,7 +52786,7 @@ Ligature2: "ltligs1" U R
 EndChar
 
 StartChar: lt_UO
-Encoding: 986 -1 783
+Encoding: 986 -1 785
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -52780,7 +52849,7 @@ Ligature2: "ltligs1" U O
 EndChar
 
 StartChar: lt_UV
-Encoding: 987 -1 784
+Encoding: 987 -1 786
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -52855,7 +52924,7 @@ Ligature2: "ltligs1" U V
 EndChar
 
 StartChar: lt_RP
-Encoding: 988 -1 785
+Encoding: 988 -1 787
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -52937,7 +53006,7 @@ Ligature2: "ltligs1" R P
 EndChar
 
 StartChar: lt_RT
-Encoding: 989 -1 786
+Encoding: 989 -1 788
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53027,7 +53096,7 @@ Ligature2: "ltligs1" R T
 EndChar
 
 StartChar: lt_RK
-Encoding: 990 -1 787
+Encoding: 990 -1 789
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53103,7 +53172,7 @@ Ligature2: "ltligs1" R K
 EndChar
 
 StartChar: lt_RS
-Encoding: 991 -1 788
+Encoding: 991 -1 790
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53183,7 +53252,7 @@ Ligature2: "ltligs1" R S
 EndChar
 
 StartChar: lt_RF
-Encoding: 992 -1 789
+Encoding: 992 -1 791
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53297,7 +53366,7 @@ Ligature2: "ltligs1" R F
 EndChar
 
 StartChar: lt_RN
-Encoding: 993 -1 790
+Encoding: 993 -1 792
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53354,7 +53423,7 @@ Ligature2: "ltligs1" R N
 EndChar
 
 StartChar: lt_RM
-Encoding: 994 -1 791
+Encoding: 994 -1 793
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53423,7 +53492,7 @@ Ligature2: "ltligs1" R M
 EndChar
 
 StartChar: lt_RH
-Encoding: 995 -1 792
+Encoding: 995 -1 794
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53496,7 +53565,7 @@ Ligature2: "ltligs1" R H
 EndChar
 
 StartChar: lt_RZ
-Encoding: 996 -1 793
+Encoding: 996 -1 795
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53572,7 +53641,7 @@ Ligature2: "ltligs1" R Z
 EndChar
 
 StartChar: lt_RY
-Encoding: 997 -1 794
+Encoding: 997 -1 796
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53641,7 +53710,7 @@ Ligature2: "ltligs1" R Y
 EndChar
 
 StartChar: lt_RC
-Encoding: 998 -1 795
+Encoding: 998 -1 797
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53698,7 +53767,7 @@ Ligature2: "ltligs1" R C
 EndChar
 
 StartChar: lt_RL
-Encoding: 999 -1 796
+Encoding: 999 -1 798
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53758,7 +53827,7 @@ Ligature2: "ltligs1" R L
 EndChar
 
 StartChar: lt_RW
-Encoding: 1000 -1 797
+Encoding: 1000 -1 799
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53859,7 +53928,7 @@ Ligature2: "ltligs1" R W
 EndChar
 
 StartChar: lt_RG
-Encoding: 1001 -1 798
+Encoding: 1001 -1 800
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -53947,7 +54016,7 @@ Ligature2: "ltligs1" R G
 EndChar
 
 StartChar: lt_RQ
-Encoding: 1002 -1 799
+Encoding: 1002 -1 801
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54011,7 +54080,7 @@ Ligature2: "ltligs1" R Q
 EndChar
 
 StartChar: lt_RD
-Encoding: 1003 -1 800
+Encoding: 1003 -1 802
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54083,7 +54152,7 @@ Ligature2: "ltligs1" R D
 EndChar
 
 StartChar: lt_RB
-Encoding: 1004 -1 801
+Encoding: 1004 -1 803
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54187,7 +54256,7 @@ Ligature2: "ltligs1" R B
 EndChar
 
 StartChar: lt_RA
-Encoding: 1005 -1 802
+Encoding: 1005 -1 804
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54261,7 +54330,7 @@ Ligature2: "ltligs1" R A
 EndChar
 
 StartChar: lt_RI
-Encoding: 1006 -1 803
+Encoding: 1006 -1 805
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54347,7 +54416,7 @@ Ligature2: "ltligs1" R I
 EndChar
 
 StartChar: lt_RE
-Encoding: 1007 -1 804
+Encoding: 1007 -1 806
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54450,7 +54519,7 @@ Ligature2: "ltligs1" R E
 EndChar
 
 StartChar: lt_RU
-Encoding: 1008 -1 805
+Encoding: 1008 -1 807
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54526,7 +54595,7 @@ Ligature2: "ltligs1" R U
 EndChar
 
 StartChar: lt_RR
-Encoding: 1009 -1 806
+Encoding: 1009 -1 808
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54581,7 +54650,7 @@ Ligature2: "ltligs1" R R
 EndChar
 
 StartChar: lt_RO
-Encoding: 1010 -1 807
+Encoding: 1010 -1 809
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54654,7 +54723,7 @@ Ligature2: "ltligs1" R O
 EndChar
 
 StartChar: lt_RV
-Encoding: 1011 -1 808
+Encoding: 1011 -1 810
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54710,7 +54779,7 @@ Ligature2: "ltligs1" R V
 EndChar
 
 StartChar: lt_OO
-Encoding: 1012 -1 809
+Encoding: 1012 -1 811
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54759,7 +54828,7 @@ Ligature2: "ltligs1" O O
 EndChar
 
 StartChar: lt_VP
-Encoding: 1013 -1 810
+Encoding: 1013 -1 812
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54806,7 +54875,7 @@ Ligature2: "ltligs1" V P
 EndChar
 
 StartChar: lt_VT
-Encoding: 1014 -1 811
+Encoding: 1014 -1 813
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54880,7 +54949,7 @@ Ligature2: "ltligs1" V T
 EndChar
 
 StartChar: lt_VK
-Encoding: 1015 -1 812
+Encoding: 1015 -1 814
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -54942,7 +55011,7 @@ Ligature2: "ltligs1" V K
 EndChar
 
 StartChar: lt_VS
-Encoding: 1016 -1 813
+Encoding: 1016 -1 815
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55006,7 +55075,7 @@ Ligature2: "ltligs1" V S
 EndChar
 
 StartChar: lt_VF
-Encoding: 1017 -1 814
+Encoding: 1017 -1 816
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55088,7 +55157,7 @@ Ligature2: "ltligs1" V F
 EndChar
 
 StartChar: lt_VN
-Encoding: 1018 -1 815
+Encoding: 1018 -1 817
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55162,7 +55231,7 @@ Ligature2: "ltligs1" V N
 EndChar
 
 StartChar: lt_VM
-Encoding: 1019 -1 816
+Encoding: 1019 -1 818
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55222,7 +55291,7 @@ Ligature2: "ltligs1" V M
 EndChar
 
 StartChar: lt_VH
-Encoding: 1020 -1 817
+Encoding: 1020 -1 819
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55315,7 +55384,7 @@ Ligature2: "ltligs1" V H
 EndChar
 
 StartChar: lt_VZ
-Encoding: 1021 -1 818
+Encoding: 1021 -1 820
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55382,7 +55451,7 @@ Ligature2: "ltligs1" V Z
 EndChar
 
 StartChar: lt_VY
-Encoding: 1022 -1 819
+Encoding: 1022 -1 821
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55455,7 +55524,7 @@ Ligature2: "ltligs1" V Y
 EndChar
 
 StartChar: lt_VC
-Encoding: 1023 -1 820
+Encoding: 1023 -1 822
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55511,7 +55580,7 @@ Ligature2: "ltligs1" V C
 EndChar
 
 StartChar: lt_VX
-Encoding: 1024 -1 821
+Encoding: 1024 -1 823
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55568,7 +55637,7 @@ Ligature2: "ltligs1" V X
 EndChar
 
 StartChar: lt_VL
-Encoding: 1025 -1 822
+Encoding: 1025 -1 824
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55641,7 +55710,7 @@ Ligature2: "ltligs1" V L
 EndChar
 
 StartChar: lt_VW
-Encoding: 1026 -1 823
+Encoding: 1026 -1 825
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55717,7 +55786,7 @@ Ligature2: "ltligs1" V W
 EndChar
 
 StartChar: lt_VG
-Encoding: 1027 -1 824
+Encoding: 1027 -1 826
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55813,7 +55882,7 @@ Ligature2: "ltligs1" V G
 EndChar
 
 StartChar: lt_VQ
-Encoding: 1028 -1 825
+Encoding: 1028 -1 827
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55887,7 +55956,7 @@ Ligature2: "ltligs1" V Q
 EndChar
 
 StartChar: lt_VD
-Encoding: 1029 -1 826
+Encoding: 1029 -1 828
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -55963,7 +56032,7 @@ Ligature2: "ltligs1" V D
 EndChar
 
 StartChar: lt_VB
-Encoding: 1030 -1 827
+Encoding: 1030 -1 829
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -56030,7 +56099,7 @@ Ligature2: "ltligs1" V B
 EndChar
 
 StartChar: lt_VA
-Encoding: 1031 -1 828
+Encoding: 1031 -1 830
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -56093,7 +56162,7 @@ Ligature2: "ltligs1" V A
 EndChar
 
 StartChar: lt_VI
-Encoding: 1032 -1 829
+Encoding: 1032 -1 831
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -56185,7 +56254,7 @@ Ligature2: "ltligs1" V I
 EndChar
 
 StartChar: lt_VE
-Encoding: 1033 -1 830
+Encoding: 1033 -1 832
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -56256,7 +56325,7 @@ Ligature2: "ltligs1" V E
 EndChar
 
 StartChar: lt_VU
-Encoding: 1034 -1 831
+Encoding: 1034 -1 833
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -56338,7 +56407,7 @@ Ligature2: "ltligs1" V U
 EndChar
 
 StartChar: lt_VR
-Encoding: 1035 -1 832
+Encoding: 1035 -1 834
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -56401,7 +56470,7 @@ Ligature2: "ltligs1" V R
 EndChar
 
 StartChar: lt_VO
-Encoding: 1036 -1 833
+Encoding: 1036 -1 835
 Width: 1000
 VWidth: 1000
 Flags: W
@@ -56448,7 +56517,7 @@ Ligature2: "ltligs1" V O
 EndChar
 
 StartChar: lt_VV
-Encoding: 1037 -1 834
+Encoding: 1037 -1 836
 Width: 1000
 VWidth: 1000
 Flags: W
